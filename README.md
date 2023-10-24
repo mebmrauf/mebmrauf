@@ -20,7 +20,7 @@
 
 # About me
 
-I am a dedicated student pursuing a degree in Computer Science and Engineering at BRAC University, Bangladesh. My name is B M Rauf, and I come from Maheshpur, Jhenaidah. As a fourth-semester student, I have developed proficiency in Python and basic object-oriented programming. Currently, I am engaged in a Data Structures course, which I find highly intriguing. I approach critical incidents with a composed and professional demeanor, always seeking effective problem-solving solutions. While I haven't identified specific interests, I am open to exploring new opportunities and challenges in the world of technology.
+I am a dedicated student pursuing a degree in Computer Science and Engineering at BRAC University, Bangladesh. My name is B M Rauf, and I come from Maheshpur, Jhenaidah. As a fourth-semester student, I have developed proficiency in Python and Basic Object-Oriented Programming. Currently, I am engaged in a Data Structures course, which I find highly intriguing. I approach critical incidents with a composed and professional demeanor, always seeking effective problem-solving solutions. While I haven't identified specific interests, I am open to exploring new opportunities and challenges in the world of technology.
 
 <h3 align="left">I usually code with:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
