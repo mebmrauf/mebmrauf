@@ -51,3 +51,9 @@ I am a dedicated student pursuing a degree in Computer Science and Engineering a
 </div>
 
 ###
+
+<h1 align="left">Always Remember</h1>
+
+- It's not at all important to get it right the first time. It's vitally important to get it right the last time. -Andrew Hunt and David Thomas
+- It’s not enough that we do our best; sometimes we have to do what’s required - keep focussed on meaningful goals. - Winston Churchill
+- Continuous effort – not strength or intelligence – is the key to unlocking our potential - work hard to get what you want. - Winston Churchill
