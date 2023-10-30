@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">👋 Hey there, lovely souls!<br>👋 Welcome to my GitHub playground!<br>🚀 Feel free to explore my code,<br>projects, and contributions.<br> Happy coding! 🚀💻</h1>
+<h1 align="center">👋 Hey there, lovely souls!<br>👋 Welcome to my GitHub playground!<br>🚀 Feel free to explore my code,<br>projects, and contributions.<br>Happy coding! 🚀💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" /> </p>
 
