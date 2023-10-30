@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">Hi, there👋!<br>Welcome to my profile.</h1>
+<h1 align="center">👋 Hey there, lovely souls!<br>👋 Welcome to my GitHub playground!<br>🚀 Feel free to explore my code, projects, and contributions.<br> Happy coding! 🚀💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" /> </p>
 
@@ -34,6 +34,7 @@ I am a dedicated student pursuing a degree in Computer Science and Engineering a
 
 ###
 
+<h3 align="left"> If you have questions, ideas, or just want to connect, don't hesitate to reach out.</h3>
 - 📫 Reach me: bmrauf@hotmail.com
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raufbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/raufbiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/raufbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raufbiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/raufbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/raufbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/profile/raufbiswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/raufbiswas/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/bmrauf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/raufbiswas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.link/b6gwse)
