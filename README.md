@@ -17,7 +17,7 @@
 Hey! I'm **B M Rauf**, currently a **Computer Science and Engineering(CSE)** student at **BRAC University, Bangladesh**. I'm originally from **Maheshpur, Jhenaidah**. I’m passionate about coding, solving problems, and learning new things every day.
 
 ### 🔧 What I’m Good At:
-- I have a solid foundation in **Python** and **Basic Object-Oriented Programming**.
+- I have a solid foundation in **Python**.
 - Currently, I'm diving deep into **Data Structures, Algorithms and Databases**, which has been quite the adventure so far!
 - I like to keep a cool head under pressure, especially when tackling complex issues.
 
