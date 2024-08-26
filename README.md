@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **B M Rauf**, currently a Computer Science and Engineering student at **BRAC University, Bangladesh**. I'm originally from **Maheshpur, Jhenaidah**. I’m passionate about coding, solving problems, and learning new things every day.
+Hey! I'm **B M Rauf**, currently a **Computer Science and Engineering(CSE)** student at **BRAC University, Bangladesh**. I'm originally from **Maheshpur, Jhenaidah**. I’m passionate about coding, solving problems, and learning new things every day.
 
 ### 🔧 What I’m Good At:
-- I have a solid foundation in **Python** and **Object-Oriented Programming**.
-- Currently, I'm diving deep into **Data Structures and Algorithms**, which has been quite the adventure so far!
+- I have a solid foundation in **Python** and **Basic Object-Oriented Programming**.
+- Currently, I'm diving deep into **Data Structures, Algorithms and Databases**, which has been quite the adventure so far!
 - I like to keep a cool head under pressure, especially when tackling complex issues.
 
 ### 🌟 My Interests:
@@ -31,7 +31,19 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  </a>
 </p>
 
 <h4 align="left">🚀 Feel free to explore my code, check out my projects, and see what I’ve been up to. Happy coding! 🚀💻</h4>
@@ -41,20 +53,11 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 ## 🌱 What I’m Learning Right Now:
 
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
