@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" weight="150" src="https://github.com/raufbiswas/raufbiswas/blob/main/ezgif-1-05ab1d1c4c.gif?raw=true"  />
+<img align="right" height="150" width="150" src="https://github.com/raufbiswas/raufbiswas/blob/main/ezgif-1-05ab1d1c4c.gif?raw=true" />
 
 ###
 
