@@ -1,9 +1,11 @@
 <!--
 **raufbiswas/raufbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<div>
+  <img align="right" height="300" width="533.23572474" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
+</div>
 
 <div align="center">
-  <img align="right" height="150" width="150" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
   <h1 align="center">👋 Hello, Amazing People!<br>👋 Welcome to My GitHub Space!</h1>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" />
