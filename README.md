@@ -3,8 +3,8 @@
 -->
 <div>
   <img align="right" height="300" width="533.23572474" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
-</div><br>
-
+</div>
+<div> </div>
 <div align="center">
   <h1 align="center">👋 Hello, Amazing People!<br>👋 Welcome to My GitHub Space!</h1>
   <p align="left">
