@@ -2,7 +2,7 @@
 **raufbiswas/raufbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <div>
-  <img height="250px" width="90%" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
+  <img height="280px" width="100%" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
 </div>
 
 <div align="center">
