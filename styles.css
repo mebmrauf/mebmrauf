@@ -1,0 +1,169 @@
+body {
+    font-family: 'Prosto One', 'Hedvig Letters', sans-serif;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #f0f0f0; /* Light background */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.navbar.scrolled {
+    background-color: #e0e0e0; /* Slightly darker background when scrolled */
+    padding: 10px 0; /* Less padding when scrolled */
+}
+
+.nav-link {
+    position: relative;
+    padding: 10px 15px; /* Padding for larger clickable area */
+    transition: color 0.3s ease; /* Smooth transition for hover */
+}
+
+.nav-link:hover {
+    color: #ff4081; /* Change color on hover */
+}
+
+/* Adding an underline effect on hover */
+.nav-link::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: #ff4081; /* Accent color */
+    left: 50%;
+    bottom: -5px; /* Position below the link */
+    transition: width 0.3s ease, left 0.3s ease; /* Smooth transition */
+}
+
+.nav-link:hover::after {
+    width: 100%; /* Expand to full width on hover */
+    left: 0; /* Align to the left */
+}
+
+.navbar-brand {
+    font-weight: bold; /* Emphasize brand name */
+    font-size: 1.5rem; /* Increase brand font size */
+}
+
+header {
+    background-color: #f8f9fa;
+    color: #343a40;
+}
+
+/* Profile Picture Styles */
+header .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header img {
+    width: 150px; /* Adjust width as necessary */
+    height: 150px; /* Maintain aspect ratio */
+    border-radius: 50%; /* Circular profile picture */
+    margin-bottom: 1rem; /* Space below image */
+}
+
+.card {
+    border: none;
+    padding: 2rem; /* Increase padding for more space inside the card */
+}
+
+.bg-orange {
+    background-color: #ff5722;
+}
+
+.bg-mint {
+    background-color: #b2ebf2;
+}
+
+.bg-lavender {
+    background-color: #e1bee7;
+}
+
+/* Updated Footer Styles */
+footer {
+    background-color: #ffffff; /* Light background for a clean look */
+    color: #343a40; /* Dark text for contrast */
+    padding: 2rem 0; /* Padding for top and bottom */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    border-top: 2px solid #ff5722; /* Accent border on top */
+}
+
+footer p {
+    margin: 0; /* Remove default margin */
+    font-size: 1rem; /* Font size for readability */
+    font-weight: 400; /* Normal font weight */
+    letter-spacing: 1px; /* Slightly increased letter spacing */
+}
+
+
+/* About Me Section */
+.bg-about {
+    background-color: #f0f8ff; /* Light blue background */
+}
+
+.about-card {
+    background-color: #ffffff; /* White background for each card */
+    border-radius: 10px;
+    padding: 1.5rem;
+    border-left: 4px solid #ff5722; /* Accent border */
+}
+
+.card-title {
+    font-weight: bold;
+    color: #343a40; /* Darker color for card titles */
+    margin-bottom: 1rem;
+}
+
+/* Contact Section Styles */
+#contact {
+    background-color: #f4f4f4; /* Light gray background for the contact section */
+    padding: 2rem 0; /* Padding for top and bottom */
+}
+
+#contact h2 {
+    color: #343a40; /* Dark text for the heading */
+}
+
+#contact p {
+    margin-bottom: 1rem; /* Margin below the paragraph for spacing */
+}
+
+#contact .btn {
+    margin: 10px; /* Margin for buttons */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#contact .btn:hover {
+    opacity: 0.8; /* Slightly transparent on hover */
+}
+
+.organization-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.title-separator {
+    width: 50%;
+    margin: 0.5rem auto; /* Center the line */
+    border-top: 2px solid #343a40; /* Dark color for separator */
+}
+
+.position-info {
+    font-style: italic;
+    color: #6c757d; /* Gray color for a subtle look */
+}
+
+/* Button Styles */
+.btn-info {
+    background-color: #3b5998; /* Facebook blue */
+    color: white; /* White text for contrast */
+    border: none; /* Remove border */
+}
+
+.btn-info:hover {
+    background-color: #2e4372; /* Darker blue for hover effect */
+    color: white; /* Keep text color white on hover */
+}
