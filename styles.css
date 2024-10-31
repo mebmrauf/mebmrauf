@@ -156,7 +156,7 @@ footer p {
     color: #6c757d; /* Gray color for a subtle look */
 }
 
-/* Button Styles */
+/* Things I love Styles */
 .btn-info {
     background-color: #3b5998; /* Facebook blue */
     color: white; /* White text for contrast */
@@ -167,3 +167,71 @@ footer p {
     background-color: #2e4372; /* Darker blue for hover effect */
     color: white; /* Keep text color white on hover */
 }
+
+.sleep-card {
+    background-color: #f3e5ab; /* Light Yellow */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.cat-card {
+    background-color: #ffe4e1; /* Light Pink */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.movie-card {
+    background-color: #add8e6; /* Light Blue */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.mobile-card {
+    background-color: #d3f9d8; /* Light Green */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.food-card {
+    background-color: #ffe0b2; /* Light Orange */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.photography-card {
+    background-color: #f8bbd0; /* Light Pink */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+/* Education */
+.cs-card {
+    background-color: #d9e8f2; /* Light Blue */
+    color: #2a2a2a; /* Dark Gray */
+}
+
+.hsc-card {
+    background-color: #ffe5b4; /* Light Orange */
+    color: #2a2a2a; /* Dark Gray */
+}
+
+.ssc-card {
+    background-color: #f0f4c3; /* Light Lime Green */
+    color: #2a2a2a; /* Dark Gray */
+}
+
+.link-text {
+    color: inherit; /* Inherit the color from the parent */
+    text-decoration: none; /* Remove underline */
+}
+
+.link-text:hover {
+    text-decoration: underline; /* Optional: underline on hover */
+}
+
+/* Organizations */
+.org-card {
+    background-color: #f0e68c; /* Light Yellow */
+    color: #2a2a2a; /* Dark Gray */
+}
+
+.title-separator {
+    border: 1px solid #2a2a2a; /* Dark Gray line */
+    width: 50%; /* Adjust the width of the separator */
+    margin: 10px auto; /* Center the separator */
+}
+
