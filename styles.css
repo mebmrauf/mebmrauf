@@ -156,20 +156,14 @@ footer p {
     color: #6c757d; /* Gray color for a subtle look */
 }
 
-/* Things I love Styles */
-.btn-info {
-    background-color: #3b5998; /* Facebook blue */
-    color: white; /* White text for contrast */
-    border: none; /* Remove border */
-}
-
-.btn-info:hover {
-    background-color: #2e4372; /* Darker blue for hover effect */
-    color: white; /* Keep text color white on hover */
-}
-
+/* Things I Love Section */
 .sleep-card {
     background-color: #f3e5ab; /* Light Yellow */
+    color: #3b3b3b; /* Dark Gray */
+}
+
+.photography-card {
+    background-color: #f8bbd0; /* Light Pink */
     color: #3b3b3b; /* Dark Gray */
 }
 
@@ -193,12 +187,7 @@ footer p {
     color: #3b3b3b; /* Dark Gray */
 }
 
-.photography-card {
-    background-color: #f8bbd0; /* Light Pink */
-    color: #3b3b3b; /* Dark Gray */
-}
-
-/* Education */
+/* Education Section */
 .cs-card {
     background-color: #d9e8f2; /* Light Blue */
     color: #2a2a2a; /* Dark Gray */
@@ -223,7 +212,7 @@ footer p {
     text-decoration: underline; /* Optional: underline on hover */
 }
 
-/* Organizations */
+/* Organizations Section */
 .org-card {
     background-color: #f0e68c; /* Light Yellow */
     color: #2a2a2a; /* Dark Gray */
@@ -234,4 +223,3 @@ footer p {
     width: 50%; /* Adjust the width of the separator */
     margin: 10px auto; /* Center the separator */
 }
-
