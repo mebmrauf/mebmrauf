@@ -1,35 +1,42 @@
+/* Global Styles */
 body {
     font-family: 'Prosto One', 'Hedvig Letters', sans-serif;
+    background: linear-gradient(135deg, #e0f7fa, #ffebee); /* Soft gradient background */
+    margin: 0;
+    padding: 0;
+    color: #333; /* Default text color */
 }
 
+/* Smooth Scroll Behavior */
+html {
+    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+}
 /* Navbar Styles */
 .navbar {
     background-color: #f0f0f0; /* Light background */
     transition: background-color 0.3s ease; /* Smooth transition */
-}
-
-.navbar.scrolled {
-    background-color: #e0e0e0; /* Slightly darker background when scrolled */
-    padding: 10px 0; /* Less padding when scrolled */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
 
 .nav-link {
     position: relative;
     padding: 10px 15px; /* Padding for larger clickable area */
-    transition: color 0.3s ease; /* Smooth transition for hover */
+    transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for hover */
+    border-radius: 0.375rem; /* Rounded corners */
 }
 
 .nav-link:hover {
-    color: #ff4081; /* Change color on hover */
+    background-color: rgba(29, 78, 216, 0.1); /* Light background color on hover */
+    color: #1d4ed8; /* Change text color on hover */
 }
 
-/* Adding an underline effect on hover */
+/* Underline effect */
 .nav-link::after {
     content: '';
     position: absolute;
     width: 0;
     height: 2px;
-    background: #ff4081; /* Accent color */
+    background: #1d4ed8; /* Accent color */
     left: 50%;
     bottom: -5px; /* Position below the link */
     transition: width 0.3s ease, left 0.3s ease; /* Smooth transition */
@@ -45,23 +52,87 @@ body {
     font-size: 1.5rem; /* Increase brand font size */
 }
 
-header {
-    background-color: #f8f9fa;
-    color: #343a40;
+
+/* Header Styling */
+.header {
+    position: relative;
+    color: #fff;
+    padding: 6rem 0;
 }
 
-/* Profile Picture Styles */
-header .container {
+.header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Dark overlay for readability */
+    z-index: 1;
+}
+
+.header .container {
+    position: relative;
     display: flex;
-    flex-direction: column;
     align-items: center;
+    z-index: 2;
+    padding: 1rem;
 }
 
-header img {
-    width: 150px; /* Adjust width as necessary */
-    height: 150px; /* Maintain aspect ratio */
-    border-radius: 50%; /* Circular profile picture */
-    margin-bottom: 1rem; /* Space below image */
+.profile {
+    flex: 1;
+    align-items: flex-start;
+}
+
+.header img {
+    width: 150px; /* Profile Picture size */
+    height: 150px;
+    border-radius: 50%;
+    border: 4px solid #ffffff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.header p {
+    font-size: 1.25rem;
+    font-style: italic;
+    color: #d1e8ff;
+}
+
+/* Animated Icons */
+.animated-icons {
+    display: flex;
+    gap: 1rem;
+    font-size: 2rem;
+}
+
+.animated-icons i {
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.animated-icons i:hover {
+    transform: scale(1.2);
+    color: #ff4081; /* Accent color for hover effect */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .header .container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .profile {
+        align-items: center;
+        text-align: center;
+    }
+
+    .animated-icons {
+        display: none;
+    }
 }
 
 .card {
@@ -69,16 +140,19 @@ header img {
     padding: 2rem; /* Increase padding for more space inside the card */
 }
 
+/* Background Colors */
 .bg-orange {
-    background-color: #ff5722;
+    background: linear-gradient(135deg, #ff7a1c, #e65a00); /* Darker orange gradient */
 }
 
 .bg-mint {
-    background-color: #b2ebf2;
+    background: linear-gradient(135deg, #a3f7b5, #50c878); /* Fresh mint gradient */
+    color: #2a2a2a; /* Dark gray text for readability */
 }
 
 .bg-lavender {
-    background-color: #e1bee7;
+    background: linear-gradient(135deg, #b39ddb, #7e57c2); /* Soft lavender gradient */
+    color: #2a2a2a; /* Dark gray text for readability */
 }
 
 /* Updated Footer Styles */
@@ -97,23 +171,119 @@ footer p {
     letter-spacing: 1px; /* Slightly increased letter spacing */
 }
 
-
 /* About Me Section */
 .bg-about {
-    background-color: #f0f8ff; /* Light blue background */
+    background-color: #e6f7ff; /* Softer light blue for background */
 }
 
 .about-card {
-    background-color: #ffffff; /* White background for each card */
-    border-radius: 10px;
-    padding: 1.5rem;
-    border-left: 4px solid #ff5722; /* Accent border */
+    background-color: #ffffff; /* White card background */
+    border-radius: 12px; /* Rounded corners */
+    transition: transform 0.3s, box-shadow 0.3s; /* Smooth animation */
+    position: relative; /* Required for the ::before pseudo-element */
 }
 
+/* Decorative overlay for card shapes */
+.about-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300%; /* Wider than the card */
+    height: 300%; /* Taller than the card */
+    background: rgba(255, 255, 255, 0.2); /* Light overlay for effect */
+    border-radius: 50%; /* Circular shape */
+    transition: transform 0.3s;
+    z-index: 0; /* Behind the content */
+}
+
+.about-card:hover::before {
+    transform: translateX(-50%) scale(0.8); /* Scale down on hover */
+}
+
+.about-card:hover {
+    transform: translateY(-10px); /* Lift effect on hover */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+}
+
+/* Icon Styling */
+.icon {
+    color: #4a90e2; /* Different color for icons for contrast */
+}
+
+/* Title and paragraph styling */
 .card-title {
+    color: #333333; /* Darker color for titles for better visibility */
     font-weight: bold;
-    color: #343a40; /* Darker color for card titles */
-    margin-bottom: 1rem;
+}
+
+.about-card p {
+    color: #4a4a4a; /* Darker gray for text */
+}
+
+/* Media query for smaller devices */
+@media (max-width: 640px) {
+    .about-card {
+        padding: 1.5rem; /* Adjust padding for small screens */
+    }
+}
+
+/* Organizations Section Styles */
+#organizations {
+    background-color: #ffffff; /* White background for the organizations section */
+}
+
+.org-card {
+    position: relative; /* For positioning the shape overlay */
+    overflow: hidden; /* Clip any overflow for decorative shapes */
+}
+
+.shape-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 110%; /* Wider than the card */
+    height: 110%; /* Taller than the card */
+    background: rgba(0, 123, 255, 0.1); /* Light blue overlay for effect */
+    border-radius: 12px; /* Rounded corners */
+    z-index: 0; /* Behind the content */
+}
+
+.organization-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff; /* Bootstrap primary color */
+    z-index: 1; /* Bring title above overlay */
+    position: relative; /* For stacking with the overlay */
+}
+
+.title-separator {
+    width: 50%;
+    margin: 0.5rem auto; /* Center the line */
+    border-top: 2px solid #007bff; /* Dark color for separator */
+}
+
+.position-info {
+    font-style: italic;
+    color: #6c757d; /* Gray color for a subtle look */
+}
+
+/* Organizations Section Styles */
+#organizations {
+    background-color: #f8fafb; /* Light gray background */
+}
+
+.organization-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff; /* Bootstrap primary color */
+}
+
+.title-separator {
+    width: 50%;
+    margin: 0.5rem auto; /* Center the line */
+    border-top: 2px solid #007bff; /* Dark color for separator */
 }
 
 /* Contact Section Styles */
@@ -130,96 +300,220 @@ footer p {
     margin-bottom: 1rem; /* Margin below the paragraph for spacing */
 }
 
+.social-buttons {
+    display: flex;
+    flex-wrap: wrap; /* Wrap buttons on smaller screens */
+    justify-content: center; /* Center align buttons */
+}
+
+/* Contact Section Styles */
 #contact .btn {
+    padding: 10px 20px; /* Add padding for better spacing */
     margin: 10px; /* Margin for buttons */
-    transition: background-color 0.3s; /* Smooth transition for hover effect */
+    border-radius: 25px; /* Rounded buttons */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transition for hover effect */
 }
 
 #contact .btn:hover {
     opacity: 0.8; /* Slightly transparent on hover */
+    transform: translateY(-3px); /* Lift button on hover */
 }
 
-.organization-title {
-    font-size: 1.5rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-}
 
-.title-separator {
-    width: 50%;
-    margin: 0.5rem auto; /* Center the line */
-    border-top: 2px solid #343a40; /* Dark color for separator */
-}
-
-.position-info {
-    font-style: italic;
-    color: #6c757d; /* Gray color for a subtle look */
-}
 
 /* Things I Love Section */
+/* General Card Styles */
+.love-card {
+    position: relative; /* For positioning the shape overlay */
+    overflow: hidden; /* Clip any overflow for decorative shapes */
+    transition: transform 0.3s, box-shadow 0.3s; /* Smooth animation */
+}
+
+/* Decorative Shape Overlays */
+.shape-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120%; /* Wider than the card */
+    height: 120%; /* Taller than the card */
+    background: rgba(255, 255, 255, 0.2); /* Light overlay for effect */
+    border-radius: 50%; /* Circular overlay */
+    transform: translate(-10%, -10%); /* Slight offset for effect */
+    z-index: 0; /* Behind the content */
+}
+
+/* Card Background Colors */
 .sleep-card {
     background-color: #f3e5ab; /* Light Yellow */
-    color: #3b3b3b; /* Dark Gray */
 }
 
 .photography-card {
     background-color: #f8bbd0; /* Light Pink */
-    color: #3b3b3b; /* Dark Gray */
 }
 
 .cat-card {
     background-color: #ffe4e1; /* Light Pink */
-    color: #3b3b3b; /* Dark Gray */
 }
 
 .movie-card {
     background-color: #add8e6; /* Light Blue */
-    color: #3b3b3b; /* Dark Gray */
 }
 
 .mobile-card {
     background-color: #d3f9d8; /* Light Green */
-    color: #3b3b3b; /* Dark Gray */
 }
 
 .food-card {
     background-color: #ffe0b2; /* Light Orange */
+}
+
+/* Title and paragraph styling */
+.love-card h5 {
     color: #3b3b3b; /* Dark Gray */
+    z-index: 1; /* Bring title above overlay */
+    position: relative; /* For stacking with the overlay */
+}
+
+.love-card p {
+    color: #3b3b3b; /* Dark Gray */
+    z-index: 1; /* Bring text above overlay */
+    position: relative; /* For stacking with the overlay */
+}
+
+/* Icon Styling */
+.love-card i {
+    color: #3b3b3b; /* Dark Gray for icons */
+}
+
+/* Hover Effects */
+.love-card:hover {
+    transform: translateY(-5px); /* Slight lift effect */
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
 }
 
 /* Education Section */
-.cs-card {
-    background-color: #d9e8f2; /* Light Blue */
-    color: #2a2a2a; /* Dark Gray */
+.bg-education {
+    background-color: #f0f4f8; /* Light gray for a soft contrast */
 }
 
-.hsc-card {
-    background-color: #ffe5b4; /* Light Orange */
-    color: #2a2a2a; /* Dark Gray */
+/* Education Card Styles */
+.education-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 1.25rem; /* Rounded corners */
+    padding: 1.5rem;
+    position: relative; /* For pseudo-elements */
+    overflow: hidden; /* Clip overflow for pseudo-elements */
 }
 
-.ssc-card {
-    background-color: #f0f4c3; /* Light Lime Green */
-    color: #2a2a2a; /* Dark Gray */
+/* Pseudo-element for decorative effect */
+.education-card::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300%; /* Wider than the card */
+    height: 300%; /* Taller than the card */
+    background: rgba(255, 255, 255, 0.1); /* Light overlay */
+    border-radius: 50%; /* Circular overlay */
+    transition: transform 0.3s;
+    z-index: 0; /* Behind the content */
 }
 
+.education-card:hover::before {
+    transform: translateX(-50%) scale(0.9); /* Scale down on hover */
+}
+
+.education-card:hover {
+    transform: translateY(-10px); /* Lift effect */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); /* Deeper shadow on hover */
+}
+
+/* Title and paragraph styling */
+.education-card h4 {
+    font-weight: bold;
+    position: relative; /* For stacking with the pseudo-element */
+    z-index: 1; /* Bring the title above the overlay */
+    color: #ffffff; /* Ensuring title is white for contrast */
+}
+
+.education-card p {
+    font-size: 1rem;
+    position: relative; /* For stacking with the pseudo-element */
+    z-index: 1; /* Bring the text above the overlay */
+    color: #ffffff; /* Ensuring paragraph is white for contrast */
+}
+
+/* Link styling */
 .link-text {
-    color: inherit; /* Inherit the color from the parent */
-    text-decoration: none; /* Remove underline */
+    color: #e0f7fa; /* Light blue for links */
 }
 
-.link-text:hover {
-    text-decoration: underline; /* Optional: underline on hover */
+/* Media query for smaller devices */
+@media (max-width: 640px) {
+    .education-card {
+        padding: 1.25rem; /* Adjust padding for small screens */
+    }
 }
 
-/* Organizations Section */
-.org-card {
-    background-color: #f0e68c; /* Light Yellow */
-    color: #2a2a2a; /* Dark Gray */
+/* Skills Section */
+.skill-card {
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 1.5rem; /* More rounded corners */
+    padding: 2rem;
+    color: #fff; /* Default text color */
+    text-align: center;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Increased initial shadow for cards */
+    position: relative; /* Position for before/after effects */
+    overflow: hidden; /* To hide the background gradient */
 }
 
-.title-separator {
-    border: 1px solid #2a2a2a; /* Dark Gray line */
-    width: 50%; /* Adjust the width of the separator */
-    margin: 10px auto; /* Center the separator */
+/* Add a decorative effect to the cards */
+.skill-card::before {
+    content: "";
+    position: absolute;
+    top: -30%; /* Position slightly above the card */
+    left: 0;
+    right: 0;
+    height: 100%; /* Cover the whole card */
+    background: rgba(255, 255, 255, 0.1); /* Light white overlay */
+    transition: opacity 0.3s;
+    z-index: 0; /* Behind the card content */
 }
+
+.skill-card:hover::before {
+    opacity: 0; /* Fade out on hover */
+}
+
+.skill-card:hover {
+    transform: translateY(-8px); /* Slight lift effect */
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3); /* Deeper shadow on hover */
+}
+
+/* Icon Styling */
+.skill-card i {
+    font-size: 2.5rem; /* Size of icons */
+    margin-bottom: 1rem; /* Space below icons */
+    z-index: 1; /* Bring icons above the overlay */
+}
+
+/* Text and List Styling */
+h5 {
+    font-weight: bold;
+    font-size: 1.5rem; /* Font size for section titles */
+    margin-bottom: 1rem; /* Space below titles */
+    z-index: 1; /* Bring titles above the overlay */
+}
+
+ul {
+    list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margin */
+}
+
+li {
+    font-size: 1rem; /* Font size for list items */
+    margin: 0.5rem 0; /* Space between list items */
+}
+
+
