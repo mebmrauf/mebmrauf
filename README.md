@@ -112,8 +112,8 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repository
