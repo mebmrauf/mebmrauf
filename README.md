@@ -20,11 +20,11 @@ Hey! I'm **B M Rauf**, currently a **Computer Science and Engineering(CSE)** stu
 
 ### 🔧 What I’m Good At:
 - I have a solid foundation in **Python**.
-- Currently, I'm diving deep into **Data Structures, Algorithms and Databases**, which has been quite the adventure so far!
+- Currently, I'm diving deep into **Web Development**, which has been quite the adventure so far! But the thing is, I don’t want to work in the development sector.
 - I like to keep a cool head under pressure, especially when tackling complex issues.
 
 ### 🌟 My Interests:
-While I’m still exploring where my true passion lies, I’m open to venturing into various tech domains. Every new challenge is an opportunity to learn and grow!
+While I’m still exploring where my true passion lies, I’m open to venturing into various tech domains. Every new challenge is an opportunity to learn and grow! Currently, I’m especially intrigued by the cybersecurity sector and am considering pursuing it further, though I’m keeping my options open as I explore other areas in tech.
 
 ---
 
