@@ -77,31 +77,31 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 ## 💬 Let’s Connect:
 
 <p align="left">
-  <a href="https://github.com/raufbiswas" target="_blank" rel="noreferrer">
+  <a href="https://github.com/mebmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/raufbiswas/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/mebmrauf/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"/>
   </a>
-  <a href="https://www.facebook.com/raufbiswas" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/mebmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40"/>
   </a>
-  <a href="https://www.instagram.com/raufbiswas/" target="_blank" rel="noreferrer">
+  <a href="https://www.instagram.com/mebmrauf/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"/>
   </a>
-  <a href="https://twitter.com/raufbiswas" target="_blank" rel="noreferrer">
+  <a href="https://twitter.com/mebmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/raufbiswas" target="_blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/profile/mebmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40"/>
   </a>
-  <a href="https://leetcode.com/raufbiswas/" target="_blank" rel="noreferrer">
+  <a href="https://leetcode.com/mebmrauf/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="40"/>
   </a>
   <a href="https://codeforces.com/profile/bmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="40"/>
   </a>
-  <a href="https://t.me/raufbiswas" target="_blank" rel="noreferrer">
+  <a href="https://t.me/mebmrauf" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="40"/>
   </a>
   <a href="https://wa.link/b6gwse" target="_blank" rel="noreferrer">
@@ -112,8 +112,8 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raufbiswas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raufbiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mebmrauf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mebmrauf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 ---
