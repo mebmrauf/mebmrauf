@@ -8,7 +8,7 @@
 <div align="center">
   <h1 align="center">👋 Hello, Amazing People!<br>👋 Welcome to My GitHub Space!</h1>
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" />
+    <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&theme=transparent&style=flat" alt="raufbiswas" />
   </p>
 </div>
 
@@ -111,10 +111,13 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mebmrauf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mebmrauf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="160" alt="languages graph" />
-</div>
+# 📊 GitHub Statisticss:
+![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repository
+![](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 
