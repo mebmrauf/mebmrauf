@@ -8,7 +8,7 @@
 <div align="center">
   <h1 align="center">👋 Hello, Amazing People!<br>👋 Welcome to My GitHub Space!</h1>
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=transparent&style=flat" alt="raufbiswas" />
+    <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" />
   </p>
 </div>
 
@@ -112,8 +112,8 @@ While I’m still exploring where my true passion lies, I’m open to venturing 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repository
