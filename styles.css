@@ -11,45 +11,80 @@ body {
 html {
     scroll-behavior: smooth; /* Smooth scrolling for anchor links */
 }
-/* Navbar Styles */
-.navbar {
-    background-color: #f0f0f0; /* Light background */
-    transition: background-color 0.3s ease; /* Smooth transition */
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+
+.about-card::before {
+    position: relative!important;
 }
 
+/* Navbar Container */
+.navbar {
+    background-color: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    transition: background-color 0.3s ease; /* Smooth background color transition */
+}
+
+/* Navbar Brand */
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #1d4ed8; /* Indigo color */
+    transition: color 0.3s ease;
+}
+
+.navbar-brand:hover {
+    color: #0a3d91; /* Darker shade on hover */
+}
+
+/* Navbar Links */
 .nav-link {
     position: relative;
-    padding: 10px 15px; /* Padding for larger clickable area */
-    transition: color 0.3s ease, background-color 0.3s ease; /* Smooth transition for hover */
-    border-radius: 0.375rem; /* Rounded corners */
+    padding: 10px 15px;
+    color: #4b5563; /* Gray color */
+    border-radius: 0.375rem;
+    transition: color 0.3s ease, background-color 0.3s ease;
 }
 
 .nav-link:hover {
-    background-color: rgba(29, 78, 216, 0.1); /* Light background color on hover */
-    color: #1d4ed8; /* Change text color on hover */
+    background-color: rgba(29, 78, 216, 0.1); /* Light indigo background on hover */
+    color: #1d4ed8;
 }
 
-/* Underline effect */
+/* Underline Effect on Hover */
 .nav-link::after {
     content: '';
     position: absolute;
     width: 0;
     height: 2px;
-    background: #1d4ed8; /* Accent color */
+    background-color: #1d4ed8; /* Indigo color */
     left: 50%;
-    bottom: -5px; /* Position below the link */
-    transition: width 0.3s ease, left 0.3s ease; /* Smooth transition */
+    bottom: -5px;
+    transition: width 0.3s ease, left 0.3s ease;
 }
 
 .nav-link:hover::after {
-    width: 100%; /* Expand to full width on hover */
-    left: 0; /* Align to the left */
+    width: 100%;
+    left: 0;
 }
 
-.navbar-brand {
-    font-weight: bold; /* Emphasize brand name */
-    font-size: 1.5rem; /* Increase brand font size */
+/* Responsive Adjustments */
+@media (max-width: 991px) { /* Breakpoint for smaller screens */
+    .navbar-nav {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .navbar-toggler {
+        color: #1d4ed8;
+        border: none;
+        outline: none;
+    }
+}
+
+/* Utility Classes */
+.container {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
 }
 
 
@@ -515,5 +550,3 @@ li {
     font-size: 1rem; /* Font size for list items */
     margin: 0.5rem 0; /* Space between list items */
 }
-
-
