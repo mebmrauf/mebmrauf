@@ -98,28 +98,29 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ---
 
-Here's a cleaner and more organized version of your GitHub profile section:
+# 📊 GitHub Stats
+
+### GitHub Streak Stats
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
+
+### General Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
-## 📊 GitHub Stats:
-  
-### Personal Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repositories
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📝 Always Remember:
+> **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
+> – Andrew Hunt and David Thomas
 
-- **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
-  – Andrew Hunt and David Thomas
-  
-- **"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."**  
-  – Steve McConnell
+> **"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."**  
+> – Steve McConnell
 
 ---
