@@ -103,16 +103,8 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 ### GitHub Streak Stats
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
 
-### General Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)
-
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🔝 Top Contributed Repositories
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 ---
 
@@ -120,7 +112,7 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 > **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
 > – Andrew Hunt and David Thomas
 
-> **"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."**  
-> – Steve McConnell
+> **"Research is tough, and motivation is crucial—working on something you genuinely find interesting will keep you engaged and excited."**  
+> – Unknown
 
 ---
