@@ -24,17 +24,21 @@ While these areas excite me the most, I’m also curious about exploring other t
 📅 **September 2022 - Present**  
 
 **Relevant Coursework:**  
-Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Database Management Systems | Artificial Intelligence | Software Engineering
+Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Database Management Systems | Artificial Intelligence | Software Engineering  
+
+---
 
 ### **Higher Secondary School Certificate (HSC)**  
 📍 **Maheshpur Government Degree College, Bangladesh**  
 📅 **July 2019 - February 2022**  
 📊 **GPA: 5.00/5.00**  
 
+---
+
 ### **Secondary School Certificate (SSC)**  
 📍 **Shankarhuda Bathangachhi Secondary School, Bangladesh**  
 📅 **January 2014 - February 2019**  
-📊 **GPA: 5.00/5.00**  
+📊 **GPA: 5.00/5.00**
 
 ---
 
@@ -56,9 +60,10 @@ Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Da
 
 ### **EK JUBO SONGHO** — *Founding Member*  
 📅 **January 2022 - Present**  
-- Working towards establishing the formal structure of the organization.
-- Actively contributing financially from personal expenses.
-- Aiming to complete the formalization process by **2028**.
+
+- Leading efforts to establish the formal structure of the organization, which currently has 20 members.  
+- Contributing financially from personal expenses to support the development of the organization.  
+- Targeting completion of the formalization process by **2028**.
 
 ---
 
