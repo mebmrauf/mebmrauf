@@ -11,9 +11,9 @@
 
 ## 🔥 About Me
 
-I am **B M Rauf**, a Computer Science and Engineering (CSE) student at **BRAC University, Bangladesh**, with a strong passion for **Cybersecurity and Machine Learning**. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on **"Machine Learning for Cybersecurity."**
+Hi, I’m **B M Rauf**, a Computer Science and Engineering (CSE) student at **BRAC University, Bangladesh**. I’m passionate about **Cybersecurity** and **Machine Learning**, and I plan to focus on **"Machine Learning for Cybersecurity"** for my undergraduate thesis, which I will begin in **Fall 2025**.
 
-Beyond these interests, I am also open to exploring various tech domains, including **Image Processing, Quantum Computing, Web Development**, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
+While these areas excite me the most, I’m also curious about exploring other tech fields like **Image Processing, Quantum Computing**, and **Web Development**. I’m always eager to learn, grow, and take on new challenges that allow me to contribute.
 
 ---
 
@@ -102,10 +102,15 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 # 📊 GitHub Stats
 
-### GitHub Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <div style="display: inline-block; margin-right: 10px;">
+    <h4>GitHub Streak Stats</h4>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false" alt="Streak Stats" />
+  </div>
+  <div style="display: inline-block; margin-left: 10px;">
+    <h4>Top Languages</h4>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </div>
+</div>
 
 ---
