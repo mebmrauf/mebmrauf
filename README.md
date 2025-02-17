@@ -95,3 +95,31 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 🔗 **Social Media:**  
 - [Facebook](https://www.facebook.com/mebmrauf) | [Instagram](https://www.instagram.com/mebmrauf) | [Twitter](https://twitter.com/mebmrauf)  
 - [Telegram](https://t.me/mebmrauf) | [WhatsApp](https://wa.link/b6gwse)
+
+---
+
+Here's a cleaner and more organized version of your GitHub profile section:
+
+---
+
+## 📊 GitHub Stats:
+  
+### Personal Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+
+---
+
+## 📝 Always Remember:
+
+- **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
+  – Andrew Hunt and David Thomas
+  
+- **"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."**  
+  – Steve McConnell
+
+---
