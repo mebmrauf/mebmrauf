@@ -90,7 +90,7 @@ Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Da
 > **"Research is tough, and motivation is crucial; working on something you genuinely find interesting will keep you engaged and excited."**  
 > – Unknown
 
-> **Facing uncertain situations with positivity and confidence leads to beneficial and optimal outcomes.**
+> **Facing uncertain situations with positivity and confidence leads to beneficial and optimal outcomes.**  
 > – B M Rauf
 ---
 
