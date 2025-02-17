@@ -5,7 +5,7 @@
 📍 Dhaka, Bangladesh  
 📞 +880 1726 - 339233  
 📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [GitHub](https://github.com/mebmrauf)
+🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)
 
 ---
 
@@ -75,13 +75,8 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ---
 
-## 🎯 Hobbies & Interests
-
-- 🌿 Gardening
-- ✈️ Traveling
-- 🎥 Watching Movies
-- 🚗 Passion for Cars
-- 👟 Collecting Sneakers & Watches
+## 🎯 Hobbies & Interests  
+🌿 Gardening | ✈️ Traveling | 🎥 Watching Movies | 🚗 Passion for Cars | 👟 Collecting Sneakers & Watches
 
 ---
 
