@@ -1,4 +1,4 @@
-<h1 align='center'>B M Rauf</h1>
+# B M Rauf
 
 **Iterative Learner | Ambivert**
 
@@ -13,7 +13,7 @@
 
 I am **B M Rauf**, a Computer Science and Engineering (CSE) student at **BRAC University, Bangladesh**, with a strong passion for **Cybersecurity and Machine Learning**. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on **"Machine Learning for Cybersecurity."**
 
-Beyond these interests, I am also open to exploring various tech domains, including **Quantum Computing, Web Development**, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
+Beyond these interests, I am also open to exploring various tech domains, including **Image Processing, Quantum Computing, Web Development**, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
 
 ---
 
@@ -22,7 +22,6 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 ### **BRAC University, Bangladesh**  
 📍 **BSc in Computer Science and Engineering**  
 📅 **September 2022 - Present**  
-📊 **Current GPA: 3.56/4.00**  
 
 **Relevant Coursework:**  
 - Data Structures & Algorithms  
@@ -30,7 +29,7 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 - Theory of Computation  
 - Database Management Systems  
 - Artificial Intelligence  
-- Software Engineering  
+- Software Engineering
 
 ### **Maheshpur Government Degree College, Bangladesh**  
 📍 **Higher Secondary School Certificate (HSC)**  
@@ -62,34 +61,7 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ## 🚀 Projects
 
-### **1️⃣ UngaBunga** — *E-commerce Website for Grocery Shopping*  
-🛠 **MERN Stack, Tailwind CSS**  
-🔗 [GitHub Repository](https://github.com/mebmrauf/UngaBunga)
-
-### **2️⃣ Mushroom Class Detector** — *Machine Learning Project for Mushroom Classification*  
-🛠 **Python3, Pandas, Scikit-Learn, Matplotlib, NumPy**  
-🔗 [GitHub Repository](https://github.com/mebmrauf/Mushroom-Class-Detector)
-
-### **3️⃣ Air Quality Predictor** — *Machine Learning Project for Air Quality Classification*  
-🛠 **Python3, Pandas, Scikit-Learn, Matplotlib, NumPy**  
-🔗 [GitHub Repository](https://github.com/mebmrauf/Air-Quality-Predictor)
-
-### **4️⃣ Bookworm Buddies** — *Book Exchange Platform*  
-🛠 **PHP, MySQL, HTML, Vanilla CSS**  
-🔗 [GitHub Repository](https://github.com/404mahdi/Bookworm-Buddies)
-
-### **5️⃣ UngaBunga Blog** — *A Blogging Platform*  
-🛠 **PHP, MySQL, HTML, CSS**  
-🔗 [GitHub Repository](https://github.com/mebmrauf/UngaBunga-Blog)
-
----
-
-## 🏆 Awards & Achievements
-
-- 🏅 **Best Reader Award (2014 & 2017)**
-- 📜 **Recognized in SEQAEP Curriculum Development Program** *(Implemented by the Center for International Literature, Bangladesh)*
-- 🥈 **Math Olympiad - First Runner-Up (2016)**
-- 🏆 **Outstanding Student Felicitation (2019)** *for achieving GPA 5 in SSC*
+🔗 [GitHub Repository](https://github.com/mebmrauf/project-showcase)
 
 ---
 
@@ -115,6 +87,11 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ## 🌐 Connect with Me
 
-📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)  
-🔗 [GitHub](https://github.com/mebmrauf)
+📧 [Email](mailto:bmrauf.me@gmail.com)  
+🔗 **Professional & Coding Profiles:**  
+- [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [GitHub](https://github.com/mebmrauf)  
+- [HackerRank](https://www.hackerrank.com/profile/mebmrauf) | [LeetCode](https://leetcode.com/mebmrauf) | [Codeforces](https://codeforces.com/profile/bmrauf)  
+
+🔗 **Social Media:**  
+- [Facebook](https://www.facebook.com/mebmrauf) | [Instagram](https://www.instagram.com/mebmrauf) | [Twitter](https://twitter.com/mebmrauf)  
+- [Telegram](https://t.me/mebmrauf) | [WhatsApp](https://wa.link/b6gwse)
