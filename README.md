@@ -5,7 +5,7 @@
 📍 Dhaka, Bangladesh  
 📞 +880 1726 - 339233  
 📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)
+🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [Portfolio](https://portfolio.bmrauf.me)
 
 ---
 
