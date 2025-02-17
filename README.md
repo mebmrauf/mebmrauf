@@ -87,7 +87,7 @@ Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Da
 > **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
 > – Andrew Hunt and David Thomas
 
-> **"Research is tough, and motivation is crucial—working on something you genuinely find interesting will keep you engaged and excited."**  
+> **"Research is tough, and motivation is crucial; working on something you genuinely find interesting will keep you engaged and excited."**  
 > – Unknown
 
 > **Facing uncertain situations with positivity and confidence leads to beneficial and optimal outcomes.**
