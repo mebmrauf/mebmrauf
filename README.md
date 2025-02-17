@@ -1,6 +1,6 @@
 # B M Rauf
 
-**Iterative Learner | Ambivert**
+## Iterative Learner | Ambivert
 
 📍 Dhaka, Bangladesh  
 📞 +880 1726 - 339233  
@@ -19,8 +19,8 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ## 🎓 Education
 
-### **BRAC University, Bangladesh**  
-📍 **BSc in Computer Science and Engineering**  
+### **BSc in Computer Science and Engineering**  
+📍 **BRAC University, Bangladesh**  
 📅 **September 2022 - Present**  
 
 **Relevant Coursework:**  
@@ -31,13 +31,13 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 - Artificial Intelligence  
 - Software Engineering
 
-### **Maheshpur Government Degree College, Bangladesh**  
-📍 **Higher Secondary School Certificate (HSC)**  
+### **Higher Secondary School Certificate (HSC)**  
+📍 **Maheshpur Government Degree College, Bangladesh**  
 📅 **July 2019 - February 2022**  
 📊 **GPA: 5.00/5.00**  
 
-### **Shankarhuda Bathangachhi Secondary School, Bangladesh**  
-📍 **Secondary School Certificate (SSC)**  
+### **Secondary School Certificate (SSC)**  
+📍 **Shankarhuda Bathangachhi Secondary School, Bangladesh**  
 📅 **January 2014 - February 2019**  
 📊 **GPA: 5.00/5.00**  
 
