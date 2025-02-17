@@ -1,6 +1,6 @@
 # B M Rauf
 
-## Iterative Learner | Ambivert
+### Iterative Learner | Ambivert
 
 📍 Dhaka, Bangladesh  
 📞 +880 1726 - 339233  
