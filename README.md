@@ -87,14 +87,21 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ## 🌐 Connect with Me
 
-📧 [Email](mailto:bmrauf.me@gmail.com)  
-🔗 **Professional & Coding Profiles:**  
-- [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [GitHub](https://github.com/mebmrauf)  
-- [HackerRank](https://www.hackerrank.com/profile/mebmrauf) | [LeetCode](https://leetcode.com/mebmrauf) | [Codeforces](https://codeforces.com/profile/bmrauf)  
-
 🔗 **Social Media:**  
 - [Facebook](https://www.facebook.com/mebmrauf) | [Instagram](https://www.instagram.com/mebmrauf) | [Twitter](https://twitter.com/mebmrauf)  
 - [Telegram](https://t.me/mebmrauf) | [WhatsApp](https://wa.link/b6gwse)
+
+🔗 **Coding Profiles:**   
+- [LeetCode](https://leetcode.com/mebmrauf) | [HackerRank](https://www.hackerrank.com/profile/mebmrauf) | [Codeforces](https://codeforces.com/profile/bmrauf)  
+
+---
+
+## 📝 Always Remember:
+> **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
+> – Andrew Hunt and David Thomas
+
+> **"Research is tough, and motivation is crucial—working on something you genuinely find interesting will keep you engaged and excited."**  
+> – Unknown
 
 ---
 
@@ -105,14 +112,5 @@ Beyond these interests, I am also open to exploring various tech domains, includ
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 📝 Always Remember:
-> **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
-> – Andrew Hunt and David Thomas
-
-> **"Research is tough, and motivation is crucial—working on something you genuinely find interesting will keep you engaged and excited."**  
-> – Unknown
 
 ---
