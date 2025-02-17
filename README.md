@@ -1,127 +1,120 @@
-<!--
-**raufbiswas/raufbiswas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<div>
-  <img height="280px" width="100%" src="https://github.com/raufbiswas/raufbiswas/blob/main/photo.png?raw=true" alt="Profile Animation" />
-</div>
+# B M Rauf
 
-<div align="center">
-  <h1 align="center">👋 Hello, Amazing People!<br>👋 Welcome to My GitHub Space!</h1>
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=raufbiswas&label=Profile%20views&color=0e75b6&style=flat" alt="raufbiswas" />
-  </p>
-</div>
+**Iterative Learner | Ambivert**
+
+📍 Dhaka, Bangladesh  
+📞 +880 1726 - 339233  
+📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [GitHub](https://github.com/mebmrauf)
 
 ---
 
-## 🧑‍💻 About Me
+## 🔥 About Me
 
-Hey! I'm **B M Rauf**, currently a **Computer Science and Engineering(CSE)** student at **BRAC University, Bangladesh**. I'm originally from **Maheshpur, Jhenaidah**. I’m passionate about coding, solving problems, and learning new things every day.
+I am **B M Rauf**, a Computer Science and Engineering (CSE) student at **BRAC University, Bangladesh**, with a strong passion for **Cybersecurity and Machine Learning**. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on **"Machine Learning for Cybersecurity."**
 
-### 🔧 What I’m Good At:
-- I have a solid foundation in **Python**.
-- Currently, I'm diving deep into **Web Development**, which has been quite the adventure so far! But the thing is, I don’t want to work in the development sector.
-- I like to keep a cool head under pressure, especially when tackling complex issues.
-
-### 🌟 My Interests:
-While I’m still exploring where my true passion lies, I’m open to venturing into various tech domains. Every new challenge is an opportunity to learn and grow! Currently, I’m especially intrigued by the cybersecurity sector and am considering pursuing it further, though I’m keeping my options open as I explore other areas in tech.
+Beyond these interests, I am also open to exploring various tech domains, including **Quantum Computing, Web Development**, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
 
 ---
 
-## 🛠️ Tools & Technologies I Use:
+## 🎓 Education
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-</p>
+### **BRAC University, Bangladesh**  
+📍 **BSc in Computer Science and Engineering**  
+📅 **September 2022 - Present**  
+📊 **Current GPA: 3.56/4.00**  
 
-<h4 align="left">🚀 Feel free to explore my code, check out my projects, and see what I’ve been up to. Happy coding! 🚀💻</h4>
+**Relevant Coursework:**  
+- Data Structures & Algorithms  
+- Discrete Mathematics  
+- Theory of Computation  
+- Database Management Systems  
+- Artificial Intelligence  
+- Software Engineering  
 
----
+### **Maheshpur Government Degree College, Bangladesh**  
+📍 **Higher Secondary School Certificate (HSC)**  
+📅 **July 2019 - February 2022**  
+📊 **GPA: 5.00/5.00**  
 
-## 🌱 What I’m Learning Right Now:
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-</p>
+### **Shankarhuda Bathangachhi Secondary School, Bangladesh**  
+📍 **Secondary School Certificate (SSC)**  
+📅 **January 2014 - February 2019**  
+📊 **GPA: 5.00/5.00**  
 
 ---
 
-## 💬 Let’s Connect:
+## 🛠 Skills
 
-<p align="left">
-  <a href="https://github.com/mebmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mebmrauf/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/mebmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/mebmrauf/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40"/>
-  </a>
-  <a href="https://twitter.com/mebmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/mebmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="40"/>
-  </a>
-  <a href="https://leetcode.com/mebmrauf/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="40"/>
-  </a>
-  <a href="https://codeforces.com/profile/bmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="40"/>
-  </a>
-  <a href="https://t.me/mebmrauf" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="telegram" height="40"/>
-  </a>
-  <a href="https://wa.link/b6gwse" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="whatsapp" height="40"/>
-  </a>
-</p>
+### **Programming Languages:**
+- Python, C, JavaScript, MySQL, MongoDB
+
+### **Machine Learning Libraries:**
+- Scikit-Learn, Pandas, NumPy, Matplotlib
+
+### **Web Development:**
+- PHP, Express.js, React, Node.js, Flask, HTML, CSS (Bootstrap, Tailwind CSS)
+
+### **Version Control:**
+- Git, GitHub
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 Projects
 
-### 🔝 Top Contributed Repository
-![](https://github-contributor-stats.vercel.app/api?username=mebmrauf&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+### **1️⃣ UngaBunga** — *E-commerce Website for Grocery Shopping*  
+🛠 **MERN Stack, Tailwind CSS**  
+🔗 [GitHub Repository](https://github.com/mebmrauf/UngaBunga)
+
+### **2️⃣ Mushroom Class Detector** — *Machine Learning Project for Mushroom Classification*  
+🛠 **Python3, Pandas, Scikit-Learn, Matplotlib, NumPy**  
+🔗 [GitHub Repository](https://github.com/mebmrauf/Mushroom-Class-Detector)
+
+### **3️⃣ Air Quality Predictor** — *Machine Learning Project for Air Quality Classification*  
+🛠 **Python3, Pandas, Scikit-Learn, Matplotlib, NumPy**  
+🔗 [GitHub Repository](https://github.com/mebmrauf/Air-Quality-Predictor)
+
+### **4️⃣ Bookworm Buddies** — *Book Exchange Platform*  
+🛠 **PHP, MySQL, HTML, Vanilla CSS**  
+🔗 [GitHub Repository](https://github.com/404mahdi/Bookworm-Buddies)
+
+### **5️⃣ UngaBunga Blog** — *A Blogging Platform*  
+🛠 **PHP, MySQL, HTML, CSS**  
+🔗 [GitHub Repository](https://github.com/mebmrauf/UngaBunga-Blog)
 
 ---
 
-## 📝 Always Remember:
+## 🏆 Awards & Achievements
 
-- **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."** – Andrew Hunt and David Thomas
-- **"It's hard enough to find an error in your code when you're looking for it; it's even harder when you've assumed your code is error-free."** – Steve McConnell
+- 🏅 **Best Reader Award (2014 & 2017)**
+- 📜 **Recognized in SEQAEP Curriculum Development Program** *(Implemented by the Center for International Literature, Bangladesh)*
+- 🥈 **Math Olympiad - First Runner-Up (2016)**
+- 🏆 **Outstanding Student Felicitation (2019)** *for achieving GPA 5 in SSC*
+
+---
+
+## 🌍 Leadership & Involvement
+
+### **EK JUBO SONGHO** — *Founding Member*  
+📅 **January 2022 - Present**  
+- Working towards establishing the formal structure of the organization.
+- Actively contributing financially from personal expenses.
+- Aiming to complete the formalization process by **2028**.
+
+---
+
+## 🎯 Hobbies & Interests
+
+- 🌿 Gardening
+- ✈️ Traveling
+- 🎥 Watching Movies
+- 🚗 Passion for Cars
+- 👟 Collecting Sneakers & Watches
+
+---
+
+## 🌐 Connect with Me
+
+📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)  
+🔗 [GitHub](https://github.com/mebmrauf)
