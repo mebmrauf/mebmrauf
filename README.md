@@ -24,12 +24,7 @@ While these areas excite me the most, I’m also curious about exploring other t
 📅 **September 2022 - Present**  
 
 **Relevant Coursework:**  
-- Data Structures & Algorithms  
-- Discrete Mathematics  
-- Theory of Computation  
-- Database Management Systems  
-- Artificial Intelligence  
-- Software Engineering
+Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Database Management Systems | Artificial Intelligence | Software Engineering
 
 ### **Higher Secondary School Certificate (HSC)**  
 📍 **Maheshpur Government Degree College, Bangladesh**  
@@ -43,19 +38,11 @@ While these areas excite me the most, I’m also curious about exploring other t
 
 ---
 
-## 🛠 Skills
-
-### **Programming Languages:**
-- Python, C, JavaScript, MySQL, MongoDB
-
-### **Machine Learning Libraries:**
-- Scikit-Learn, Pandas, NumPy, Matplotlib
-
-### **Web Development:**
-- PHP, Express.js, React, Node.js, Flask, HTML, CSS (Bootstrap, Tailwind CSS)
-
-### **Version Control:**
-- Git, GitHub
+## 🛠 Skills  
+**Programming Languages:** Python, C, JavaScript, MySQL, MongoDB  
+**Machine Learning Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib  
+**Web Development:** PHP, Express.js, React, Node.js, Flask, HTML, CSS (Bootstrap, Tailwind CSS)  
+**Version Control:** Git, GitHub
 
 ---
 
