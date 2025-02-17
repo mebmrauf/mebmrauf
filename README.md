@@ -102,15 +102,8 @@ While these areas excite me the most, I’m also curious about exploring other t
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <div style="display: inline-block; margin-right: 10px;">
-    <h4>GitHub Streak Stats</h4>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false" alt="Streak Stats" />
-  </div>
-  <div style="display: inline-block; margin-left: 10px;">
-    <h4>Top Languages</h4>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
-</div>
+| GitHub Streak Stats | Top Languages |
+|---------------------|---------------|
+| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
 ---
