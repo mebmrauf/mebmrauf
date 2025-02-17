@@ -100,9 +100,9 @@ While these areas excite me the most, I’m also curious about exploring other t
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
-| GitHub Streak Stats | Top Languages |
+| GitHub Streak Statistics | Top Languages |
 |---------------------|---------------|
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
