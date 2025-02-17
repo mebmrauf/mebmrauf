@@ -1,4 +1,4 @@
-# B M Rauf
+<h1 align='center'>B M Rauf</h1>
 
 **Iterative Learner | Ambivert**
 
