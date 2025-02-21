@@ -1,6 +1,6 @@
-<div>
+<div align='center'>
 <h1>B M Rauf</h1>
-<p align='center'>Rauf a name stands for kindness and compassion, where kindness is power and compassion is strength.</p></div>
+Rauf a name stands for kindness and compassion, where kindness is power and compassion is strength.</div>
 
 ### Iterative Learner | Ambivert
 
