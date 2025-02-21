@@ -10,9 +10,7 @@
 ---
 
 ## 🔥 About Me
-**Hi, I'm Rauf**—a name that stands for kindness and compassion, where kindness is power and compassion is strength.  
-
-I am a **Computer Science and Engineering (CSE)** student at **BRAC University, Bangladesh**, with a strong passion for **Cybersecurity** and **Machine Learning**. I plan to focus on **"Machine Learning for Cybersecurity"** for my undergraduate thesis, starting in **Fall 2025**.  
+Hi, I'm **B M Rauf** a **Computer Science and Engineering (CSE)** student at **BRAC University, Bangladesh**, with a strong passion for **Cybersecurity** and **Machine Learning**. I plan to focus on **"Machine Learning for Cybersecurity"** for my undergraduate thesis, starting in **Fall 2025**.  
 
 Beyond these areas, I am also eager to explore **Image Processing, Quantum Computing**, and **Web Development**. I am always looking for opportunities to learn, grow, and take on new challenges that allow me to contribute meaningfully.
 
