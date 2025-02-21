@@ -1,7 +1,12 @@
-<div align='center'>
-<title>B M Rauf</title>
-  
-Rauf a name stands for kindness and compassion, where kindness is power and compassion is strength.</div>
+<div align="center">
+
+# B M Rauf  
+
+### 🌟 Rauf – A Name of Kindness and Compassion  
+
+> Where **kindness** is power and **compassion** is strength.  
+
+</div>
 
 ### Iterative Learner | Ambivert
 
