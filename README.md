@@ -1,8 +1,7 @@
 <div align="center">
 
 # B M Rauf  
-
-#### Rauf - A Name of Kindness and Compassion
+### Rauf - A Name of Kindness and Compassion
 > Where **kindness** is power and **compassion** is strength.  
 
 </div>
