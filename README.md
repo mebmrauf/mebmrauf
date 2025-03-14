@@ -40,7 +40,7 @@ Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Da
 ---
 
 ## 🛠 Skills  
-**Programming Languages:** Python, C, JavaScript, Assembly
+**Programming Languages:** Python, C, JavaScript, Assembly 
 **Machine Learning Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib  
 **Web Development:** PHP, Express.js, React, Node.js, Flask, HTML, CSS (Bootstrap, Tailwind CSS), MySQL, MongoDB  
 **Version Control:** Git, GitHub
