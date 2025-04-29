@@ -23,22 +23,6 @@ Beyond these areas, I am also eager to explore **Image Processing, Quantum Compu
 **Relevant Coursework:**  
 Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Database Management Systems | Artificial Intelligence | Software Engineering  
 
----
-
-### **Higher Secondary School Certificate (HSC)**  
-📍 **Maheshpur Government Degree College, Bangladesh**  
-📅 **July 2019 - February 2022**  
-📊 **GPA: 5.00/5.00**  
-
----
-
-### **Secondary School Certificate (SSC)**  
-📍 **Shankarhuda Bathangachhi Secondary School, Bangladesh**  
-📅 **January 2014 - February 2019**  
-📊 **GPA: 5.00/5.00**
-
----
-
 ## 🛠 Skills  
 **Programming Languages:** Python, C, JavaScript, Assembly  
 **Machine Learning Libraries:** Scikit-Learn, Pandas, NumPy, Matplotlib  
