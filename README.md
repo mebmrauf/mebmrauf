@@ -1,7 +1,5 @@
 # B M Rauf
 
-![Profile Picture](bmrauf.jpg)
-
 **Dhaka, Bangladesh**  
 📞 [+880 1726-339233](tel:+8801726339233)  
 📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
@@ -46,11 +44,6 @@ _BSc in Computer Science and Engineering_
 **Maheshpur Government Degree College**, Jhenaidah  
 _Higher Secondary School Certificate (HSC)_  
 📅 2019 – 2021  
-**GPA:** 5.00 / 5.00
-
-**Shankarhuda Bathangachhi Secondary School**, Jhenaidah  
-_Secondary School Certificate (SSC)_  
-📅 2017 – 2019  
 **GPA:** 5.00 / 5.00
 
 ---
