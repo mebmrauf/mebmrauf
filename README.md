@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Profile
 
-Computer Science and Engineering student at BRAC University with a strong interest in Cybersecurity and Machine Learning. Currently preparing an undergraduate thesis on “Machine Learning for Cybersecurity.” Curious and proactive learner with openness to new areas such as Quantum Computing and Web Development. Passionate about solving real-world problems through technology.
+I am B M Rauf, a Computer Science and Engineering (CSE) student at BRAC University, Bangladesh, with a strong passion for Cybersecurity and Machine Learning. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on ”Machine Learning for Cybersecurity.” Beyond these interests, I am also open to exploring various tech domains, including Quantum Computing, Web Development, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
 
 ---
 
