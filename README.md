@@ -20,15 +20,15 @@ I am B M Rauf, a Computer Science and Engineering (CSE) student at BRAC Universi
 Machine Learning model to classify air quality levels  
 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, NumPy
 
-### [3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)
+### [3D Snake Game - the classic snake game](https://github.com/mebmrauf/3D-Snake-Game)
 Interactive 3D game with dynamic difficulty and power-ups  
 **Technologies:** Python, PyOpenGL, GLUT
 
-### [UngaBunga – Grocery E-commerce Platform](https://github.com/mebmrauf/UngaBunga)
+### [UngaBunga – grocery e-commerce platform](https://github.com/mebmrauf/UngaBunga)
 Platform for local grocery delivery with cash-on-delivery options  
 **Technologies:** MERN Stack, Tailwind CSS
 
-### [Bookworm Buddies – Book Exchange Platform](https://github.com/404mahdi/Bookworm-Buddies)
+### [Bookworm Buddies – book exchange platform](https://github.com/404mahdi/Bookworm-Buddies)
 Web-based system for book sharing and swapping  
 **Technologies:** PHP, MySQL, HTML, CSS
 
