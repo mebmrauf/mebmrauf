@@ -1,6 +1,8 @@
 # B M Rauf
 
-**Dhaka, Bangladesh**  
+### Iterative Learner | Ambivert
+
+📍**Dhaka, Bangladesh**  
 📞 [+880 1726-339233](tel:+8801726339233)  
 📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)  
@@ -8,9 +10,9 @@
 
 ---
 
-## 🧑‍💻 Profile
+## 🧑‍💻 About Me
 
-I am B M Rauf, a Computer Science and Engineering (CSE) student at BRAC University, Bangladesh, with a strong passion for Cybersecurity and Machine Learning. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on ”Machine Learning for Cybersecurity.” Beyond these interests, I am also open to exploring various tech domains, including Quantum Computing, Web Development, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
+A Computer Science and Engineering (CSE) student at BRAC University, Bangladesh, with a strong passion for Cybersecurity and Machine Learning. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on ”Machine Learning for Cybersecurity.” Beyond these interests, I am also open to exploring various tech domains, including Quantum Computing, Web Development, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
 
 ---
 
@@ -20,15 +22,15 @@ I am B M Rauf, a Computer Science and Engineering (CSE) student at BRAC Universi
 Machine Learning model to classify air quality levels  
 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, NumPy
 
-### [3D Snake Game - the classic snake game](https://github.com/mebmrauf/3D-Snake-Game)
+### [3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)
 Interactive 3D game with dynamic difficulty and power-ups  
 **Technologies:** Python, PyOpenGL, GLUT
 
-### [UngaBunga – grocery e-commerce platform](https://github.com/mebmrauf/UngaBunga)
+### [UngaBunga](https://github.com/mebmrauf/UngaBunga)
 Platform for local grocery delivery with cash-on-delivery options  
 **Technologies:** MERN Stack, Tailwind CSS
 
-### [Bookworm Buddies – book exchange platform](https://github.com/404mahdi/Bookworm-Buddies)
+### [Bookworm Buddies](https://github.com/404mahdi/Bookworm-Buddies)
 Web-based system for book sharing and swapping  
 **Technologies:** PHP, MySQL, HTML, CSS
 
