@@ -31,12 +31,6 @@ Data Structures & Algorithms | Discrete Mathematics | Theory of Computation | Da
 
 ---
 
-## 🚀 Projects
-
-🔗 [GitHub Repository](https://github.com/mebmrauf/project-showcase)
-
----
-
 ## 🌍 Leadership & Involvement
 
 ### **EK JUBO SONGHO** — *Founding Member*  
