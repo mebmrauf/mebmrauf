@@ -34,7 +34,7 @@ Web-based system for book sharing and swapping
 **Technologies:** PHP, MySQL, HTML, CSS
 
 ### [Local Event Booking System](https://github.com/mebmrauf/Local-Event-Booking-System)
-Assembly language based system for local event bookings like Concerts, Sports and Workshops
+Assembly language based system for local event bookings like Concerts, Sports and Workshops  
 **Technologies:** Assembly 
 
 ---
