@@ -4,8 +4,7 @@
 📍Dhaka, Bangladesh  
 📞 [+880 1726-339233](tel:+8801726339233)  
 📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf)  
-🔗 [GitHub](https://github.com/mebmrauf)
+🔗 [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [Facebook](https://www.facebook.com/mebmrauf)
 
 ---
 
