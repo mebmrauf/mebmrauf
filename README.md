@@ -47,7 +47,6 @@ _BSc in Computer Science and Engineering_
 **Maheshpur Government Degree College**, Jhenaidah  
 _Higher Secondary School Certificate (HSC)_  
 📅 2019 – 2021  
-**GPA:** 5.00 / 5.00
 
 ---
 
