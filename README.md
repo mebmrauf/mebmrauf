@@ -43,7 +43,6 @@ Assembly language based system for local event bookings like Concerts, Sports an
 **BRAC University**, Dhaka, Bangladesh  
 _BSc in Computer Science and Engineering_  
 📅 Sept 2022 – Present  
-**GPA:** 3.56 / 4.00
 
 **Maheshpur Government Degree College**, Jhenaidah  
 _Higher Secondary School Certificate (HSC)_  
