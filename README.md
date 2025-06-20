@@ -1,9 +1,8 @@
-````markdown
 # 👋 Hey there! I'm **B M Rauf**
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Explainable+AI+Researcher+%F0%9F%A7%A0;Ethical+Tech+Advocate+%E2%9A%96%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Cybersecurity+Enthusiast+🔒;Explainable+AI+Researcher+🧠;Ethical+Tech+Advocate+⚖️)](https://git.io/typing-svg)
 
 *Building secure, transparent, and ethical AI systems for a better tomorrow* 🌟
 
@@ -17,166 +16,162 @@
 
 ## 🎯 About Me
 
+I'm a passionate Computer Science student at BRAC University, diving deep into the fascinating world of cybersecurity and AI. My journey revolves around making technology safer, more transparent, and ethically sound. When I'm not coding or researching, you'll find me exploring the latest tech trends, working on cool projects, or enjoying my hobbies!
+
 ```yaml
-name: B M Rauf
-role: CSE Student & Future Cybersecurity Researcher
-location: Dhaka, Bangladesh 🇧🇩
-university: BRAC University
-focus_areas:
-  - Explainable AI (XAI)
-  - Ethical AI Systems
-  - Cybersecurity
-  - Machine Learning Security
-thesis_topic: Machine Learning for Cybersecurity
-philosophy: Technology should be secure, transparent, and ethical
-````
-
-🔍 **Current Focus**
-
-* 🛡️ Cybersecurity Research
-* 🧠 Explainable AI
-* ⚖️ Ethical AI
-* 🚀 Continuous Learning
-
----
-
-## 🛠️ Tech Arsenal
-
-```mermaid
-mindmap
-  root((🛠️ Tech Stack))
-    🐍 Languages
-      Python
-      JavaScript
-      Assembly
-    🤖 AI/ML
-      Scikit-learn
-      NumPy
-      Pandas
-      Matplotlib
-    🌐 Web
-      React
-      Node.js
-      Express.js
-      MongoDB
-    ⚙️ Tools
-      Git
-      GitHub
-      Linux
+👨‍💻 Profile:
+  name: "B M Rauf"
+  role: "CSE Student & Aspiring Cybersecurity Researcher"
+  location: "Dhaka, Bangladesh 🇧🇩"
+  university: "BRAC University"
+  year: "Junior Year"
+  
+🎯 Focus Areas:
+  - "Explainable AI (XAI)"
+  - "Ethical AI Systems" 
+  - "Cybersecurity Research"
+  - "Machine Learning Security"
+  
+🎓 Current Work:
+  thesis: "Machine Learning for Cybersecurity"
+  philosophy: "Technology should be secure, transparent, and ethical"
 ```
 
+### 🔍 What I'm Up To
+
+- 🛡️ **Cybersecurity Research** - Exploring ML-based threat detection
+- 🧠 **Explainable AI** - Making AI decisions transparent and trustworthy  
+- ⚖️ **Ethical AI** - Ensuring AI systems are fair and responsible
+- 🚀 **Continuous Learning** - Always expanding my knowledge and skills
+
 ---
 
-## 🎯 Specialized Focus Areas
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🛡️_Cybersecurity-FF6B6B?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🧠_Explainable_AI-4ECDC4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/⚖️_Ethical_AI-45B7D1?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/🔍_ML_Security-96CEB4?style=for-the-badge&logoColor=white" />
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+### 🤖 AI/ML & Data Science
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Fun Facts About Me
+## 🎯 Areas of Expertise
 
-<table align="center">
-<tr>
-<td align="center" width="20%">
+<div align="center">
 
-🚗 **Car Enthusiast**
-*Love automotive tech*
+| 🛡️ **Cybersecurity** | 🧠 **Explainable AI** | ⚖️ **Ethical AI** | 🔍 **ML Security** |
+|:---:|:---:|:---:|:---:|
+| Threat Analysis | Model Interpretability | Bias Detection | Adversarial Defense |
+| Risk Assessment | Algorithm Transparency | Fairness Metrics | Secure ML Pipeline |
+| Vulnerability Research | Decision Explanation | Responsible AI | Privacy Protection |
 
-</td>
-<td align="center" width="20%">
-
-🌱 **Gardening**
-*Growing green!*
-
-</td>
-<td align="center" width="20%">
-
-👟 **Sneaker Collector**
-*Style meets comfort*
-
-</td>
-<td align="center" width="20%">
-
-⌚ **Watch Enthusiast**
-*Time is precious*
-
-</td>
-<td align="center" width="20%">
-
-😴 **Professional Sleeper**
-*Rest = Best code!*
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🚀 Featured Projects
-
-| 🔒 Security & AI                                                                                                                                                                                                 | 🌐 Web Dev                                                                                                                                                                   | 🎮 Creative                                                                                                                                                                              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![Air Quality Predictor](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf\&repo=Air-Quality-Predictor\&theme=tokyonight\&hide_border=true)](https://github.com/mebmrauf/Air-Quality-Predictor) | [![UngaBunga](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf\&repo=UngaBunga\&theme=tokyonight\&hide_border=true)](https://github.com/mebmrauf/UngaBunga) | [![3D Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf\&repo=3D-Snake-Game\&theme=tokyonight\&hide_border=true)](https://github.com/mebmrauf/3D-Snake-Game) |
-
----
-
-## 🔍 Project Highlights
-
-* 🤖 **[Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**
-  ML model to monitor air quality
-  `Python`, `Scikit-learn`, `Matplotlib`
-
-* 🛒 **[UngaBunga](https://github.com/mebmrauf/UngaBunga)**
-  Secure grocery delivery platform
-  `MERN Stack`, `Tailwind CSS`
-
-* 🎮 **[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**
-  3D gaming experience using `PyOpenGL`
-  `Python`, `GLUT`, `OpenGL`
-
----
-
-## 📊 GitHub Analytics
+## 🌟 A Bit More About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td>
-
-### 📈 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mebmrauf&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/car.png"/><br/>
+<strong>🚗 Car Enthusiast</strong><br/>
+<em>Love automotive tech & design</em>
 </td>
-<td>
-
-### 🔥 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=radical&hide_border=true" />
-
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/plant-under-sun.png"/><br/>
+<strong>🌱 Gardening</strong><br/>
+<em>Growing my green thumb!</em>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/sneakers.png"/><br/>
+<strong>👟 Sneaker Collector</strong><br/>
+<em>Style meets comfort</em>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/watch.png"/><br/>
+<strong>⌚ Watch Enthusiast</strong><br/>
+<em>Time is everything</em>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/color/48/000000/sleeping-in-bed.png"/><br/>
+<strong>😴 Sleep Advocate</strong><br/>
+<em>Rest = Better code!</em>
 </td>
 </tr>
 </table>
 
-### 🧠 Top Languages
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+---
 
-### 📈 Contribution Activity
+## 🚀 Featured Projects
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mebmrauf&theme=react-dark&area=true&hide_border=true" />
+<div align="center">
 
-### 🏆 GitHub Trophies
+### 🔒 Security & AI Projects
+[![Air Quality Predictor](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=Air-Quality-Predictor&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/Air-Quality-Predictor)
 
-<img src="https://github-profile-trophy.vercel.app/?username=mebmrauf&theme=radical&no-frame=true&margin-w=6" />
+### 🌐 Web Development  
+[![UngaBunga](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=UngaBunga&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/UngaBunga)
+
+### 🎮 Creative Projects
+[![3D Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=3D-Snake-Game&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/3D-Snake-Game)
+
+</div>
+
+---
+
+## 💡 Project Highlights
+
+🤖 **[Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**  
+*Machine learning model for environmental monitoring*  
+`Python` • `Scikit-learn` • `Matplotlib` • `Data Analysis`
+
+🛒 **[UngaBunga](https://github.com/mebmrauf/UngaBunga)**  
+*Secure grocery delivery platform with modern UI*  
+`MERN Stack` • `Tailwind CSS` • `JWT Authentication`
+
+🎮 **[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**  
+*Interactive 3D gaming experience*  
+`Python` • `PyOpenGL` • `GLUT` • `3D Graphics`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mebmrauf&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mebmrauf&theme=react-dark&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -184,98 +179,110 @@ mindmap
 
 ## 🎓 Academic Journey
 
-**🏛️ BRAC University** — *BSc in CSE*
-📅 Sep 2022 – Present
-🔬 Thesis: *Machine Learning for Cybersecurity*
+**🏛️ BRAC University** — *Bachelor of Science in Computer Science and Engineering*  
+📅 **September 2022 – Present** | 📍 **Dhaka, Bangladesh**
+
+🔬 **Thesis Research:** *Machine Learning Applications in Cybersecurity*
 
 ### 📚 Research Interests
-
-* XAI in Security Systems
-* ML-based Threat Detection
-* Privacy-Preserving AI
-* Ethical AI Governance
-
----
-
-## 🏆 Leadership & Impact
-
-**🌟 Founding Member – EK JUBO SONGHO**
-📅 Jan 2022 – Present
-
-* 🧩 Organized 20+ members
-* 📈 Led fundraising & strategy
-* 💬 Grew leadership & community ties
+- **Explainable AI (XAI)** in Security Systems
+- **ML-based Threat Detection** and Analysis  
+- **Privacy-Preserving AI** Technologies
+- **Ethical AI Governance** and Policy
 
 ---
 
-## 💫 Core Values & Skills
+## 🏆 Leadership & Community
+
+**🌟 Founding Member – EK JUBO SONGHO**  
+📅 **January 2022 – Present**
+
+- 🧩 **Team Management:** Successfully organized and coordinated 20+ active members
+- 📈 **Strategic Leadership:** Led fundraising initiatives and organizational strategy  
+- 💬 **Community Building:** Developed strong leadership skills and community relationships
+- 🎯 **Impact:** Created positive social impact through various community initiatives
+
+---
+
+## 💪 Core Competencies
+
+<div align="center">
 
 <table>
 <tr>
-<td>
+<td align="center" width="33%">
 
-### 🛡️ Security Mindset
-
+### 🛡️ **Security Mindset**
 ```
-🔐 Threat Analysis  
-🛡️ Risk Assessment  
-🔍 Vulnerability Scanning  
-⚡ Incident Response  
-📊 Security Analytics
-```
-
-</td>
-<td>
-
-### 🧠 AI Ethics & XAI
-
-```
-⚖️ Fairness & Accountability  
-📋 Bias Detection  
-📊 Explainability  
-🔍 Model Transparency  
-🤝 Responsible AI
+🔐 Threat Analysis & Modeling
+🛡️ Risk Assessment & Management
+🔍 Vulnerability Research
+⚡ Incident Response Planning
+📊 Security Analytics & Monitoring
 ```
 
 </td>
-<td>
+<td align="center" width="33%">
 
-### 💻 Tech Skills
-
+### 🧠 **AI Ethics & XAI**
 ```
-🐍 Python  
-🤖 ML Engineering  
-🌐 Full-Stack Dev  
-📊 Data Science  
-🔧 System Design
+⚖️ Fairness & Accountability
+📋 Algorithmic Bias Detection
+📊 Model Explainability
+🔍 Transparency & Trust
+🤝 Responsible AI Development
+```
+
+</td>
+<td align="center" width="33%">
+
+### 💻 **Technical Skills**
+```
+🐍 Python Development
+🤖 ML Engineering
+🌐 Full-Stack Development
+📊 Data Science & Analytics
+🔧 System Design & Architecture
 ```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🌐 Global Communication
+## 🌐 Languages
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🇧🇩_Bengali-Native-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🇺🇸_English-Fluent-blue?style=for-the-badge" />
+![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native_Speaker-28a745?style=for-the-badge)
+![English](https://img.shields.io/badge/🇺🇸_English-Fluent-0066cc?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🔗 Let's Connect!
+## 🤝 Let's Connect & Collaborate!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf\&style=for-the-badge\&color=667eea\&labelColor=764ba2)
+![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf&style=for-the-badge&color=667eea&labelColor=764ba2)
 
-### ⭐ Like what you see?
+### 🌟 **Interested in collaborating?**
 
-> *Star my repositories and let's build the future of ethical AI and cybersecurity together!* 🚀
+> *I'm always excited to work on projects related to cybersecurity, AI ethics, and innovative tech solutions. Let's build something amazing together!* 🚀
+
+**Feel free to reach out if you want to:**
+- 💡 Discuss AI and cybersecurity topics
+- 🤝 Collaborate on open-source projects  
+- 🎓 Share knowledge and learn together
+- 🌱 Connect and grow our professional network
+
+---
+
+*⭐ Star my repositories if you find them helpful!*  
+*📫 Drop me a message – I'd love to hear from you!*
 
 </div>
-```
