@@ -87,13 +87,13 @@ name: B M Rauf
 role: CSE Student & Future Cybersecurity Researcher
 location: Dhaka, Bangladesh 🇧🇩
 university: BRAC University
-focus_areas: 
+focus_areas:
   - Explainable AI (XAI)
   - Ethical AI Systems
   - Cybersecurity
   - Machine Learning Security
-thesis_topic: "Machine Learning for Cybersecurity"
-philosophy: "Technology should be secure, transparent, and ethical"
+thesis_topic: Machine Learning for Cybersecurity
+philosophy: Technology should be secure, transparent, and ethical
 ```
 
 🔍 **Current Focus:**
