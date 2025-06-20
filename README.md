@@ -190,7 +190,6 @@ I am always excited to work on projects related to **cybersecurity**, **AI ethic
 - 🔒 **Cybersecurity research collaborations**
 - 🤖 **AI/ML project partnerships** 
 - 🎓 **Academic research opportunities**
-- 🌱 **Open source contributions**
 - 💬 **Knowledge sharing and learning**
 
 **📫 How to reach me:**
