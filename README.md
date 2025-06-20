@@ -48,7 +48,7 @@ A Computer Science and Engineering student with a strong passion for technology 
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div>
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -130,15 +130,11 @@ A Computer Science and Engineering student with a strong passion for technology 
 *Interactive 3D gaming experience with advanced graphics and smooth gameplay*  
 `Python` • `PyOpenGL` • `GLUT` • `3D Graphics` • `Game Development`
 
-**🔐 Cybersecurity Research Projects**  
-*Currently working on ML-based threat detection systems and security analytics*  
-`Machine Learning` • `Threat Analysis` • `Security Research` • `Data Mining`
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mebmrauf&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=radical&hide_border=true&layout=compact&langs_count=8" />
