@@ -1,118 +1,205 @@
-# B M Rauf
- 
-**Iterative Learner | Ambivert**  
-📍Dhaka, Bangladesh  
-📞 [+880 1726-339233](tel:+8801726339233)  
-📧 [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)  
-🔗 [Portfolio](https://www.bmrauf.me) | [LinkedIn](https://www.linkedin.com/in/mebmrauf) | [Facebook](https://www.facebook.com/mebmrauf)
+# 👋 Hey there! I'm **B M Rauf**
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Cybersecurity+Enthusiast+%F0%9F%94%92;Explainable+AI+Researcher+%F0%9F%A7%A0;Ethical+Tech+Advocate+%E2%9A%96%EF%B8%8F)](https://git.io/typing-svg)
+
+*Building secure, transparent, and ethical AI systems for a better tomorrow* 🌟
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://www.bmrauf.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bmrauf.me@gmail.com)
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 **About Me**
 
-A Computer Science and Engineering (CSE) student at BRAC University, Bangladesh, with a strong passion for Cybersecurity and Machine Learning. I am currently delving deeper into these fields and plan to conduct my undergraduate thesis on ”Machine Learning for Cybersecurity.” Beyond these interests, I am also open to exploring various tech domains, including Quantum Computing, Web Development, and more. My curiosity drives me to continuously learn and contribute across diverse areas of technology.
+```yaml
+name: B M Rauf
+role: CSE Student & Future Cybersecurity Researcher
+location: Dhaka, Bangladesh 🇧🇩
+university: BRAC University
+focus_areas: 
+  - Explainable AI (XAI)
+  - Ethical AI Systems
+  - Cybersecurity
+  - Machine Learning Security
+thesis_topic: "Machine Learning for Cybersecurity"
+philosophy: "Technology should be secure, transparent, and ethical"
+```
 
----
-
-## 💼 Work and Project Experience
-
-### [Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)
-Machine Learning model to classify air quality levels  
-**Technologies:** Python, Pandas, Scikit-learn, Matplotlib, NumPy
-
-### [3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)
-Interactive 3D game with dynamic difficulty and power-ups  
-**Technologies:** Python, PyOpenGL, GLUT
-
-### [UngaBunga](https://github.com/mebmrauf/UngaBunga)
-Platform for local grocery delivery with cash-on-delivery options  
-**Technologies:** MERN Stack, Tailwind CSS
-
-### [Bookworm Buddies](https://github.com/404mahdi/Bookworm-Buddies)
-Web-based system for book sharing and swapping  
-**Technologies:** PHP, MySQL, HTML, CSS
-
-### [Local Event Booking System](https://github.com/mebmrauf/Local-Event-Booking-System)
-Assembly language based system for local event bookings like Concerts, Sports and Workshops  
-**Technologies:** Assembly 
+🔍 **Current Focus:**
+- 🛡️ **Cybersecurity Research**: Exploring ML-driven security solutions
+- 🧠 **Explainable AI**: Making AI decisions transparent and interpretable  
+- ⚖️ **Ethical AI**: Ensuring AI systems are fair, accountable, and trustworthy
+- 🚀 **Continuous Learning**: Always exploring new frontiers in tech
 
 ---
 
-## 🎓 Education
+## 🛠️ **Tech Arsenal**
 
-**BRAC University**, Dhaka, Bangladesh  
-_BSc in Computer Science and Engineering_  
-📅 Sept 2022 – Present  
+<div align="center">
 
-**Maheshpur Government Degree College**, Jhenaidah  
-_Higher Secondary School Certificate (HSC)_  
-📅 2019 – 2021  
+### **Core Technologies**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
----
+### **AI/ML & Security**
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 🧠 Skills
+### **Web Development**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-- **Programming Languages:** Python, JavaScript, Assembly  
-- **Web Development:** PHP, HTML, CSS, Tailwind, Bootstrap, Express.js, React.js, Node.js  
-- **Graphics:** PyOpenGL  
-- **Version Control:** Git, GitHub  
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
-## 🤝 Soft Skills
-
-- Active listening  
-- Ability to communicate in a friendly manner  
-- Team collaboration and empathy  
-- Open to constructive feedback and continuous improvement  
-
----
-
-## 🏆 Leadership and Community Involvement
-
-**Founding Member – EK JUBO SONGHO**  
-📅 Jan 2022 – Present  
-- Helped establish structure for a 20-member youth organization  
-- Actively contributed to fundraising and strategic planning  
-- Strengthened leadership and coordination abilities  
+</div>
 
 ---
 
-## 📌 Additional Information
+## 🚀 **Featured Projects**
 
-- **Languages:** Bengali (native), English (fluent)  
-- **Interests:** Cars, Gardening, Collecting Sneakers & Watches, Sleeping  
+<div align="center">
 
----
+| 🔒 **Security & AI** | 🌐 **Web Development** | 🎮 **Creative Projects** |
+|:---:|:---:|:---:|
+| [![Air Quality Predictor](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=Air-Quality-Predictor&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/Air-Quality-Predictor) | [![UngaBunga](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=UngaBunga&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/UngaBunga) | [![3D Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=3D-Snake-Game&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/3D-Snake-Game) |
 
-## 🌐 Connect with Me
+</div>
 
-🔗 **Social Media:**  
-- [Facebook](https://www.facebook.com/mebmrauf) | [Instagram](https://www.instagram.com/mebmrauf) | [Twitter](https://twitter.com/mebmrauf)  
-- [Telegram](https://t.me/mebmrauf) | [WhatsApp](https://wa.link/b6gwse)
+### 🔍 **Project Highlights**
 
-🔗 **Coding Profiles:**  
-- [LeetCode](https://leetcode.com/mebmrauf) | [HackerRank](https://www.hackerrank.com/profile/mebmrauf) | [Codeforces](https://codeforces.com/profile/bmrauf)
+🤖 **[Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**
+- *Machine Learning model for environmental monitoring*
+- **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+- **Focus:** Data-driven environmental solutions
 
----
+🛒 **[UngaBunga](https://github.com/mebmrauf/UngaBunga)**  
+- *Secure local grocery delivery platform*
+- **Tech Stack:** MERN Stack, Tailwind CSS
+- **Focus:** E-commerce security and user experience
 
-## 📝 Always Remember:
-
-> **"It's not at all important to get it right the first time. It's vitally important to get it right the last time."**  
-> – Andrew Hunt and David Thomas
-
-> **"Research is tough, and motivation is crucial; working on something you genuinely find interesting will keep you engaged and excited."**  
-> – Unknown
-
-> **Facing uncertain situations with positivity and confidence leads to beneficial and optimal outcomes.**  
-> – B M Rauf
+🎮 **[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**
+- *Interactive 3D gaming experience*
+- **Tech Stack:** Python, PyOpenGL, GLUT
+- **Focus:** Computer graphics and game development
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 **GitHub Analytics**
 
-| GitHub Streak Statistics | Top Languages |
-|--------------------------|----------------|
-| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=transparent&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mebmrauf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mebmrauf&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+
+</div>
 
 ---
+
+## 🎓 **Academic Journey**
+
+**🏛️ BRAC University** | *BSc in Computer Science and Engineering*  
+📅 September 2022 – Present  
+🔬 **Thesis Focus:** Machine Learning for Cybersecurity  
+
+**📚 Research Interests:**
+- Explainable AI in Security Systems
+- Ethical AI Framework Development
+- ML-based Threat Detection
+- Privacy-Preserving Machine Learning
+
+---
+
+## 🏆 **Leadership & Impact**
+
+**🌟 Founding Member – EK JUBO SONGHO**  
+📅 January 2022 – Present
+- 👥 Established organizational structure for 20+ member youth organization
+- 💰 Led fundraising initiatives and strategic planning
+- 🤝 Developed leadership and community coordination skills
+
+---
+
+## 💫 **Core Values & Skills**
+
+<div align="center">
+
+### 🧠 **Technical Skills**
+`Machine Learning` • `Cybersecurity` • `Web Development` • `Data Analysis` • `System Design`
+
+### 🤝 **Soft Skills**  
+`Active Listening` • `Team Collaboration` • `Ethical Leadership` • `Critical Thinking` • `Adaptability`
+
+### 🌍 **Languages**
+**Bengali** (Native) • **English** (Fluent)
+
+</div>
+
+---
+
+## 🔗 **Let's Connect!**
+
+<div align="center">
+
+### 💬 **Social**
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mebmrauf)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mebmrauf)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mebmrauf)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mebmrauf)
+
+### 💻 **Coding Platforms**
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mebmrauf)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mebmrauf)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/bmrauf)
+
+</div>
+
+---
+
+## 💭 **Philosophy & Inspiration**
+
+<div align="center">
+
+> *"The best way to find out if you can trust somebody is to trust them."*  
+> **— Ernest Hemingway**
+
+> *"In the world of cybersecurity, transparency in AI is not just preferred—it's essential for trust."*  
+> **— B M Rauf**
+
+> *"Technology is best when it brings people together and keeps them safe."*  
+> **— Matt Mullenweg**
+
+---
+
+### 🌟 **Fun Facts About Me**
+🚗 Car enthusiast • 🌱 Gardening hobbyist • 👟 Sneaker collector • ⌚ Watch enthusiast • 😴 Professional sleeper
+
+---
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
+
+*Building a secure and ethical digital future, one commit at a time* 🛡️✨
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf&style=for-the-badge&color=00d9ff)
+
+</div>
