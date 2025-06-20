@@ -84,7 +84,7 @@
 
 ```yaml
 name: B M Rauf
-role: "CSE Student & Future Cybersecurity Researcher"
+role: CSE Student & Future Cybersecurity Researcher
 location: Dhaka, Bangladesh 🇧🇩
 university: BRAC University
 focus_areas: 
@@ -95,6 +95,7 @@ focus_areas:
 thesis_topic: "Machine Learning for Cybersecurity"
 philosophy: "Technology should be secure, transparent, and ethical"
 ```
+
 
 🔍 **Current Focus:**
 - 🛡️ **Cybersecurity Research**: Exploring ML-driven security solutions
