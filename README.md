@@ -2,9 +2,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=Cybersecurity+Enthusiast+🔒;Explainable+AI+Researcher+🧠;Ethical+Tech+Advocate+⚖️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=CSE+UNDERGRAD+;Iterative+Learner;Cybersecurity+&+AI+Enthusiast)](https://git.io/typing-svg)
 
-*Building secure, transparent, and ethical AI systems for a better tomorrow* 🌟
+*Every expert was once a beginner* 🌟
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://www.bmrauf.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
@@ -16,20 +16,20 @@
 
 ## 🎯 About Me
 
-I'm a passionate Computer Science student at BRAC University, diving deep into the fascinating world of cybersecurity and AI. My journey revolves around making technology safer, more transparent, and ethically sound. When I'm not coding or researching, you'll find me exploring the latest tech trends, working on cool projects, or enjoying my hobbies!
+A Computer Science and Engineering student with a strong passion for technology and its ability to solve real-world problems. Currently exploring the field of Cybersecurity, with a focus on Explainable and Ethical Artificial Intelligence to make security systems more transparent, trustworthy, and effective. Enjoys solving problems through code, embracing new challenges, and growing both technically and personally. Outside of technology, interested in photography, movies, meaningful conversations, and values proper sleep as a key part of self-care. Believes in lifelong learning, kindness, and the power of community.
 
 ```yaml
 👨‍💻 Profile:
   name: "B M Rauf"
-  role: "CSE Student & Aspiring Cybersecurity Researcher"
+  role: "CSE Student & Cybersecurity & AI Enthusiast"
   location: "Dhaka, Bangladesh 🇧🇩"
   university: "BRAC University"
-  year: "Junior Year"
+  year: "Third Year"
   
 🎯 Focus Areas:
   - "Explainable AI (XAI)"
   - "Ethical AI Systems" 
-  - "Cybersecurity Research"
+  - "Cybersecurity"
   - "Machine Learning Security"
   
 🎓 Current Work:
@@ -48,7 +48,7 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="left">
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -78,7 +78,7 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ---
 
-## 🌟 A Bit More About Me
+## 🌟Interests
 
 <div align="center">
 
@@ -177,66 +177,6 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ---
 
-## 💪 Core Competencies
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🛡️ **Security Mindset**
-```
-🔐 Threat Analysis & Modeling
-🛡️ Risk Assessment & Management
-🔍 Vulnerability Research
-⚡ Incident Response Planning
-📊 Security Analytics & Monitoring
-```
-
-</td>
-<td align="center" width="33%">
-
-### 🧠 **AI Ethics & XAI**
-```
-⚖️ Fairness & Accountability
-📋 Algorithmic Bias Detection
-📊 Model Explainability
-🔍 Transparency & Trust
-🤝 Responsible AI Development
-```
-
-</td>
-<td align="center" width="33%">
-
-### 💻 **Technical Skills**
-```
-🐍 Python Development
-🤖 ML Engineering
-🌐 Full-Stack Development
-📊 Data Science & Analytics
-🔧 System Design & Architecture
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌐 Languages
-
-<div align="center">
-
-![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native_Speaker-28a745?style=for-the-badge)
-![English](https://img.shields.io/badge/🇺🇸_English-Fluent-0066cc?style=for-the-badge)
-
-</div>
-
----
-
 ## 🌐 Languages
 
 ![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native_Speaker-28a745?style=for-the-badge)
@@ -246,11 +186,9 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ## 🤝 Let's Connect & Collaborate!
 
-![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf&style=for-the-badge&color=667eea&labelColor=764ba2)
-
 ### 🌟 Ready to build something amazing together?
 
-I'm always excited to work on projects related to **cybersecurity**, **AI ethics**, and **innovative tech solutions**. Whether you're a fellow student, researcher, or tech enthusiast, I'd love to connect and collaborate!
+I am always excited to work on projects related to **cybersecurity**, **AI ethics**, and **innovative tech solutions**. If you are interested in these areas, I would love to connect and collaborate with you!
 
 **💡 What I'm looking for:**
 - 🔒 **Cybersecurity research collaborations**
@@ -260,10 +198,7 @@ I'm always excited to work on projects related to **cybersecurity**, **AI ethics
 - 💬 **Knowledge sharing and learning**
 
 **📫 How to reach me:**
-- 🌐 **Portfolio:** [bmrauf.me](https://www.bmrauf.me)
 - 💼 **LinkedIn:** [linkedin.com/in/mebmrauf](https://www.linkedin.com/in/mebmrauf)
 - 📧 **Email:** [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)
 
 **⭐ Found my work interesting?** Give my repositories a star and let's start a conversation!
-
-> *"The best way to predict the future is to invent it, and the safest way to invent it is together."* 🚀
