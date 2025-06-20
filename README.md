@@ -81,7 +81,9 @@
 ## 🎯 **About Me**
 
 ```yaml
+
 ---
+
 name: B M Rauf
 role: CSE Student & Future Cybersecurity Researcher
 location: Dhaka, Bangladesh 🇧🇩
@@ -93,8 +95,10 @@ focus_areas:
   - Machine Learning Security
 thesis_topic: "Machine Learning for Cybersecurity"
 philosophy: "Technology should be secure, transparent, and ethical"
-```
+
 ---
+
+```
 
 🔍 **Current Focus:**
 - 🛡️ **Cybersecurity Research**: Exploring ML-driven security solutions
