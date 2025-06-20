@@ -84,7 +84,7 @@
 
 ```yaml
 name: B M Rauf
-role: CSE Student & Future Cybersecurity Researcher
+role: "CSE Student & Future Cybersecurity Researcher"
 location: Dhaka, Bangladesh 🇧🇩
 university: BRAC University
 focus_areas: 
