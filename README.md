@@ -78,20 +78,6 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ---
 
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-| 🛡️ **Cybersecurity** | 🧠 **Explainable AI** | ⚖️ **Ethical AI** | 🔍 **ML Security** |
-|:---:|:---:|:---:|:---:|
-| Threat Analysis | Model Interpretability | Bias Detection | Adversarial Defense |
-| Risk Assessment | Algorithm Transparency | Fairness Metrics | Secure ML Pipeline |
-| Vulnerability Research | Decision Explanation | Responsible AI | Privacy Protection |
-
-</div>
-
----
-
 ## 🌟 A Bit More About Me
 
 <div align="center">
@@ -109,13 +95,13 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 <em>Growing my green thumb!</em>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/sneakers.png"/><br/>
-<strong>👟 Sneaker Collector</strong><br/>
+👟<br/>
+<strong>Sneaker Collector</strong><br/>
 <em>Style meets comfort</em>
 </td>
 <td align="center" width="20%">
-<img src="https://img.icons8.com/color/48/000000/watch.png"/><br/>
-<strong>⌚ Watch Enthusiast</strong><br/>
+⌚<br/>
+<strong>Watch Enthusiast</strong><br/>
 <em>Time is everything</em>
 </td>
 <td align="center" width="20%">
@@ -132,34 +118,21 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ## 🚀 Featured Projects
 
-<div align="center">
+**🤖 [Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**  
+*Machine learning model for environmental monitoring and air quality prediction*  
+`Python` • `Scikit-learn` • `Matplotlib` • `Data Analysis` • `Environmental Science`
 
-### 🔒 Security & AI Projects
-[![Air Quality Predictor](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=Air-Quality-Predictor&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/Air-Quality-Predictor)
+**🛒 [UngaBunga](https://github.com/mebmrauf/UngaBunga)**  
+*Secure online grocery delivery platform with modern UI/UX design*  
+`MERN Stack` • `Tailwind CSS` • `JWT Authentication` • `Payment Integration`
 
-### 🌐 Web Development  
-[![UngaBunga](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=UngaBunga&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/UngaBunga)
+**🎮 [3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**  
+*Interactive 3D gaming experience with advanced graphics and smooth gameplay*  
+`Python` • `PyOpenGL` • `GLUT` • `3D Graphics` • `Game Development`
 
-### 🎮 Creative Projects
-[![3D Snake Game](https://github-readme-stats.vercel.app/api/pin/?username=mebmrauf&repo=3D-Snake-Game&theme=tokyonight&hide_border=true)](https://github.com/mebmrauf/3D-Snake-Game)
-
-</div>
-
----
-
-## 💡 Project Highlights
-
-🤖 **[Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**  
-*Machine learning model for environmental monitoring*  
-`Python` • `Scikit-learn` • `Matplotlib` • `Data Analysis`
-
-🛒 **[UngaBunga](https://github.com/mebmrauf/UngaBunga)**  
-*Secure grocery delivery platform with modern UI*  
-`MERN Stack` • `Tailwind CSS` • `JWT Authentication`
-
-🎮 **[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**  
-*Interactive 3D gaming experience*  
-`Python` • `PyOpenGL` • `GLUT` • `3D Graphics`
+**🔐 Cybersecurity Research Projects**  
+*Currently working on ML-based threat detection systems and security analytics*  
+`Machine Learning` • `Threat Analysis` • `Security Research` • `Data Mining`
 
 ---
 
@@ -264,25 +237,33 @@ I'm a passionate Computer Science student at BRAC University, diving deep into t
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 🌐 Languages
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf&style=for-the-badge&color=667eea&labelColor=764ba2)
-
-### 🌟 **Interested in collaborating?**
-
-> *I'm always excited to work on projects related to cybersecurity, AI ethics, and innovative tech solutions. Let's build something amazing together!* 🚀
-
-**Feel free to reach out if you want to:**
-- 💡 Discuss AI and cybersecurity topics
-- 🤝 Collaborate on open-source projects  
-- 🎓 Share knowledge and learn together
-- 🌱 Connect and grow our professional network
+![Bengali](https://img.shields.io/badge/🇧🇩_Bengali-Native_Speaker-28a745?style=for-the-badge)
+![English](https://img.shields.io/badge/🇺🇸_English-Fluent-0066cc?style=for-the-badge)
 
 ---
 
-*⭐ Star my repositories if you find them helpful!*  
-*📫 Drop me a message – I'd love to hear from you!*
+## 🤝 Let's Connect & Collaborate!
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=mebmrauf&style=for-the-badge&color=667eea&labelColor=764ba2)
+
+### 🌟 Ready to build something amazing together?
+
+I'm always excited to work on projects related to **cybersecurity**, **AI ethics**, and **innovative tech solutions**. Whether you're a fellow student, researcher, or tech enthusiast, I'd love to connect and collaborate!
+
+**💡 What I'm looking for:**
+- 🔒 **Cybersecurity research collaborations**
+- 🤖 **AI/ML project partnerships** 
+- 🎓 **Academic research opportunities**
+- 🌱 **Open source contributions**
+- 💬 **Knowledge sharing and learning**
+
+**📫 How to reach me:**
+- 🌐 **Portfolio:** [bmrauf.me](https://www.bmrauf.me)
+- 💼 **LinkedIn:** [linkedin.com/in/mebmrauf](https://www.linkedin.com/in/mebmrauf)
+- 📧 **Email:** [bmrauf.me@gmail.com](mailto:bmrauf.me@gmail.com)
+
+**⭐ Found my work interesting?** Give my repositories a star and let's start a conversation!
+
+> *"The best way to predict the future is to invent it, and the safest way to invent it is together."* 🚀
