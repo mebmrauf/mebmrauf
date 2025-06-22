@@ -132,20 +132,6 @@ A Computer Science and Engineering student with a strong passion for technology 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mebmrauf&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebmrauf&theme=radical&hide_border=true&layout=compact&langs_count=8" />
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mebmrauf&theme=react-dark&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 ## 🎓 Academic Journey
 
 **🏛️ BRAC University** — *Bachelor of Science in Computer Science and Engineering*  
