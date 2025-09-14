@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=CSE+UNDERGRAD+;Iterative+Learner;Cybersecurity+and+AI+Enthusiast)](https://git.io/typing-svg)
+  **CSE UNDERGRAD | ITERATIVE LEARNER | CYBERSECURITY AND AI ENTHUSIAST**
 
 *Every expert was once a beginner* 🌟
 
@@ -55,5 +55,6 @@ Leading community initiatives and team coordination with 20+ active members.
 *Building secure, transparent, and ethical AI solutions*
 
 </div>
+
 
 
