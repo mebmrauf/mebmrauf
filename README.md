@@ -3,8 +3,6 @@
 <div align="center">
 
   **CSE UNDERGRAD | ITERATIVE LEARNER**
-  
-  *Every expert was once a beginner* 🌟
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&logoColor=white)](https://www.bmrauf.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
@@ -51,10 +49,9 @@ Leading community initiatives and team coordination with 20+ active members.
 ---
 
 <div align="center">
-
-*Building secure, transparent, and ethical AI solutions*
-
+*Every expert was once a beginner* 🌟
 </div>
+
 
 
 
