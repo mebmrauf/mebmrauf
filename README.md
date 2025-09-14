@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  **CSE UNDERGRAD ; ITERATIVE LEARNER**
+  **CSE UNDERGRAD | ITERATIVE LEARNER**
   
   *Every expert was once a beginner* 🌟
 
@@ -55,6 +55,7 @@ Leading community initiatives and team coordination with 20+ active members.
 *Building secure, transparent, and ethical AI solutions*
 
 </div>
+
 
 
 
