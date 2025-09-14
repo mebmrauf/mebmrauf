@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1>B M Rauf</h1>
 <h2>CSE UNDERGRAD | ITERATIVE LEARNER</h2>
 </div>
@@ -52,6 +52,7 @@ Leading community initiatives and team coordination with 20+ active members.
 <div align="center">
 *Every expert was once a beginner* 🌟
 </div>
+
 
 
 
