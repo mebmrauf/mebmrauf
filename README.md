@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=CSE+Student+%7C+Security+%26+AI+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=CSE+UNDERGRAD+%7C+Iterative+Learner+%7C+Cybersecurity+and+AI+Enthusiast)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&logoColor=white)](https://www.bmrauf.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
@@ -14,7 +14,7 @@
 
 ## About
 
-Third-year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Currently researching machine learning applications in cybersecurity with a focus on explainable and transparent security solutions.
+Fourth-year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Currently researching machine learning applications in cybersecurity with a focus on explainable and transparent security solutions. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self-care. Believes in lifelong learning, kindness, and the power of community.
 
 ## Tech Stack
 
@@ -53,3 +53,4 @@ Leading community initiatives and team coordination with 20+ active members.
 *Building secure, transparent, and ethical AI solutions*
 
 </div>
+
