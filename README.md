@@ -48,9 +48,12 @@ Leading community initiatives and team coordination with 20+ active members.
 
 ---
 
-<div align="center">
+<div align="center
+  
 *Every expert was once a beginner* 🌟
+
 </div>
+
 
 
 
