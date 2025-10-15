@@ -14,14 +14,12 @@
 
 ## About
 
-Fourth-year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Currently researching machine learning applications in cybersecurity with a focus on explainable and transparent security solutions. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self-care. Believes in lifelong learning, kindness, and the power of community.
+Fourth-year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self-care. Believes in lifelong learning, kindness, and the power of community.
 
 ## Tech Stack
 
-**Languages:** Python, JavaScript, C, Assembly  
-**AI/ML:** Scikit-learn, NumPy, Pandas, Matplotlib  
-**Web:** React, Node.js, Express.js, MongoDB  
-**Tools:** Git, Linux, VS Code
+**Languages:** Python, Assembly
+**AI/ML:** Scikit-learn, NumPy, Pandas, Matplotlib
 
 ## Featured Projects
 
@@ -41,11 +39,6 @@ Fourth-year CSE student at BRAC University, passionate about cybersecurity and e
 - Privacy-Preserving AI Technologies
 - Ethical AI Governance
 
-## Experience
-
-**Founding Member** — EK JUBO SONGHO *(Jan 2022 – Present)*  
-Leading community initiatives and team coordination with 20+ active members.
-
 ---
 
 <div align="center"> 
@@ -53,6 +46,7 @@ Leading community initiatives and team coordination with 20+ active members.
 Every expert was once a beginner 🌟
 
 </div>
+
 
 
 
