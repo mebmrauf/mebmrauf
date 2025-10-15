@@ -19,6 +19,7 @@ Fourth-year CSE student at BRAC University, passionate about cybersecurity and e
 ## Tech Stack
 
 **Languages:** Python, Assembly
+
 **AI/ML:** Scikit-learn, NumPy, Pandas, Matplotlib
 
 ## Featured Projects
