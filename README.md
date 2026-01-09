@@ -14,7 +14,7 @@
 
 ## About
 
-Fourth-year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self-care. Believes in lifelong learning, kindness, and the power of community.
+Fourth year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self care. Believes in lifelong learning, kindness and the power of community.
 
 ## Tech Stack
 
@@ -46,6 +46,7 @@ Fourth-year CSE student at BRAC University, passionate about cybersecurity and e
 Every expert was once a beginner 🌟
 
 </div>
+
 
 
 
