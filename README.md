@@ -14,7 +14,11 @@
 
 ## About
 
-Fourth year CSE student at BRAC University, passionate about cybersecurity and ethical AI systems. Outside of technology, interested in photography, movies, meaningful conversations and values proper sleep as a key part of self care. Believes in lifelong learning, kindness and the power of community.
+A fourth-year CSE student at BRAC University with a strong interest in cybersecurity and ethical AI. I enjoy exploring how technology can be built responsibly and securely.
+
+Outside of tech, I love photography, watching movies and having meaningful conversations. I also really value proper sleep, it's a big part of how I take care of myself.
+
+I believe in lifelong learning, leading with kindness and the strength that comes from being part of a supportive community.
 
 ## Tech Stack
 
