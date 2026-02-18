@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**CSE Undergraduate | Iterative Learner | AI/ML for Intelligent Security Systems**
+**Iterative Learner | AI/ML for Intelligent Security Systems**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&logoColor=white)](https://www.bmrauf.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
@@ -55,18 +55,6 @@ Interactive 3D game developed to explore graphics programming and real-time inte
 ---
 
 ## Currently Exploring
-
-- Learning-based approaches to intrusion detection  
-- Explainability techniques for ML models  
-- Responsible AI system design in security-sensitive domains  
-
----
-
-<div align="center">
-
-Growing one iteration at a time 🌱
-
-</div>
 
 - Learning-based approaches to intrusion detection  
 - Explainability techniques for ML models  
