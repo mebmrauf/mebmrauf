@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Iterative Learner | AI/ML for Intelligent Security Systems**
+**Iterative Learner | Lone Wolf**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=flat-square&logoColor=white)](https://www.bmrauf.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebmrauf)
@@ -24,17 +24,3 @@ I'm a fourth-year CSE student at BRAC University with a strong interest in AI an
 **AI / ML:** Scikit-learn, NumPy, Pandas, Matplotlib  
 
 ---
-
-## Featured Projects
-
-**[Air Quality Predictor](https://github.com/mebmrauf/Air-Quality-Predictor)**  
-ML model for environmental monitoring, focused on predicting air quality trends using real-world data.  
-`Python` `Scikit-learn` `Data Analysis`
-
-**[UngaBunga](https://github.com/mebmrauf/UngaBunga)**  
-Secure online grocery delivery platform with authentication and role-based access control.  
-`MERN Stack` `Tailwind CSS` `JWT Authentication`
-
-**[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)**  
-Interactive 3D game developed to explore graphics programming and real-time interaction.  
-`Python` `PyOpenGL` `3D Graphics`
