@@ -21,6 +21,4 @@ I'm a fourth-year CSE student at BRAC University with a strong interest in AI an
 ## Tech Stack
 
 **Languages:** Python, Assembly (x86)  
-**AI / ML:** Scikit-learn, NumPy, Pandas, Matplotlib  
-
----
+**AI / ML:** Scikit-learn, NumPy, Pandas, Matplotlib
