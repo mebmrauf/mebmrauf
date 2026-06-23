@@ -14,7 +14,7 @@
 
 ## About
 
-I'm a fourth-year CSE student at BRAC University with a strong interest in AI and machine learning, especially for detecting cyber threats and malicious behavior. I enjoy exploring how models like neural networks can identify, analyze, and explain attacks in modern systems. I am also interested in building AI that is responsible, reliable, and easy to understand, since trust and transparency are very important in security. Outside of tech, I enjoy photography, watching movies, and having meaningful conversations, and I try to keep a balanced lifestyle so I can stay focused, learn better, and grow over time.
+I am Rauf, a Computer Science and Engineering student at BRAC University with a passion for transforming ideas into practical solutions. My interests lie in cybersecurity, artificial intelligence, and building software systems that solve real-world problems and create meaningful impact. I enjoy tackling challenges that require both technical depth and critical thinking, approaching problems from first principles before designing solutions. Growing up in Maheshpur, Jhenaidah, and later moving to Dhaka has shaped my perspective on accessibility, innovation, and technology's role in society. Beyond academics, I enjoy photography, watching movies, spending time with friends, and continuously learning and growing both personally and professionally.
 
 ---
 
