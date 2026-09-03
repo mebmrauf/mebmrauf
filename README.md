@@ -3,7 +3,7 @@
 
   <p align="center">
     <strong>Computer Science & Engineering @ BRAC University</strong><br/>
-    <i>Iterative Learner | Lone Wolf</i>
+    <i>Always dreaming of winning...</i>
   </p>
   
   <p align="center">
