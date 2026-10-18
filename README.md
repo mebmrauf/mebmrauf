@@ -17,7 +17,7 @@
 
 ### About Me
 
-I am a Computer Science and Engineering student at BRAC University with a deep passion for transforming complex ideas into practical, scalable solutions. Growing up in Maheshpur, Jhenaidah, and moving to Dhaka shaped my perspective on how technology can bridge gaps in accessibility and drive innovation. 
+I am a Computer Science and Engineering graduate from BRAC University with a deep passion for transforming complex ideas into practical, scalable solutions. Growing up in Maheshpur, Jhenaidah, and moving to Dhaka shaped my perspective on how technology can bridge gaps in accessibility and drive innovation. 
 
 - **Focus:** Cybersecurity, Artificial Intelligence, and highly optimized Software Engineering.
 - **Approach:** I tackle challenges by breaking them down to first principles, prioritizing technical depth and critical thinking before designing the architecture.
