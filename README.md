@@ -1,44 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=200&section=header&text=B%20M%20Rauf&fontSize=70&fontColor=fca311&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <p align="center">
-    <strong>Computer Science & Engineering @ BRAC University</strong><br/>
-    <i>Always dreaming of winning...</i>
-  </p>
-  
-  <p align="center">
-    <a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:bmrauf.me@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=fca311&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20CSE%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
+
+Turning ideas into practical solutions through thoughtful problem-solving and software engineering, with a growing interest in AI.
+
+<a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-bmrauf.me-fca311?style=flat-square&labelColor=14213d" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-mebmrauf-fca311?style=flat-square&labelColor=14213d" alt="LinkedIn" /></a>
+<a href="mailto:bmrauf.me@gmail.com"><img src="https://img.shields.io/badge/Email-bmrauf.me%40gmail.com-fca311?style=flat-square&labelColor=14213d" alt="Email" /></a>
+<a href="https://leetcode.com/mebmrauf"><img src="https://img.shields.io/badge/LeetCode-mebmrauf-fca311?style=flat-square&labelColor=14213d" alt="LeetCode" /></a>
+
+<sub>📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🟢 Open to work: full-time, part-time and internships, on-site or remote</sub>
+
 </div>
 
----
+## About
 
-### About Me
+I like turning ideas into practical solutions, and I care more about the problems technology can solve than about the technology itself. My interests are **cybersecurity, AI and software engineering**, and I enjoy hard problems that need technical depth, clear thinking and creativity.
 
-I am a Computer Science and Engineering graduate from BRAC University with a deep passion for transforming complex ideas into practical, scalable solutions. Growing up in Maheshpur, Jhenaidah, and moving to Dhaka shaped my perspective on how technology can bridge gaps in accessibility and drive innovation. 
+Whether I'm doing research, writing software or trying a new idea, I start from first principles and make sure I understand the problem before I design a solution. I want to build technology that is secure, reliable and useful to people.
 
-- **Focus:** Cybersecurity, Artificial Intelligence, and highly optimized Software Engineering.
-- **Approach:** I tackle challenges by breaking them down to first principles, prioritizing technical depth and critical thinking before designing the architecture.
-- **Beyond Code:** You'll find me exploring photography, watching movies, and constantly pushing my own boundaries to grow personally and professionally.
+## Featured projects
 
----
+| Project | What it is | Built with |
+| --- | --- | --- |
+| **[Circuvo](https://circuvo.bmrauf.me/)** | AI-powered recyclable waste marketplace. Top 15 finalist at a national project expo. | Next.js · React · Node.js · Express · TypeScript · PostgreSQL |
+| **[3D Snake Game](https://github.com/mebmrauf/3D-Snake-Game)** · [Play](https://3d-snake-game-web.vercel.app/) | Interactive 3D game with power-ups, themed levels and an online leaderboard. | JavaScript · Three.js · WebGL · Python · PyOpenGL |
+| **[MiniVSFS](https://github.com/mebmrauf/MiniVSFS)** | Generator for VSFS file-system images. | C |
+| **[Facial Emotion Recognizer](https://github.com/mebmrauf/Facial-Emotion-Recognizer)** | ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013. | Python · PyTorch |
+| **[Mushroom Class Detector](https://github.com/mebmrauf/Mushroom-Class-Detector)** | Mushroom classifier; Random Forest reached 95.04% test accuracy. | Python · scikit-learn · Pandas |
 
-### Tech Arsenal
+<sub>More projects and case studies on <a href="https://www.bmrauf.me">bmrauf.me</a>.</sub>
 
-**Artificial Intelligence & Machine Learning**
+## Tech stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-14213d?style=flat-square&logo=python&logoColor=fca311" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-14213d?style=flat-square&logo=javascript&logoColor=fca311" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-14213d?style=flat-square&logo=typescript&logoColor=fca311" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-14213d?style=flat-square&logo=postgresql&logoColor=fca311" alt="SQL" />
+<img src="https://img.shields.io/badge/Assembly-14213d?style=flat-square&logo=assemblyscript&logoColor=fca311" alt="Assembly" />
 
-**Software Engineering & Web Technologies**
+**Web**<br/>
+<img src="https://img.shields.io/badge/React-14213d?style=flat-square&logo=react&logoColor=fca311" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-14213d?style=flat-square&logo=nextdotjs&logoColor=fca311" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-14213d?style=flat-square&logo=nodedotjs&logoColor=fca311" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-14213d?style=flat-square&logo=express&logoColor=fca311" alt="Express" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-14213d?style=flat-square&logo=tailwindcss&logoColor=fca311" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/PostgreSQL-14213d?style=flat-square&logo=postgresql&logoColor=fca311" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-14213d?style=flat-square&logo=mysql&logoColor=fca311" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-14213d?style=flat-square&logo=mongodb&logoColor=fca311" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Prisma-14213d?style=flat-square&logo=prisma&logoColor=fca311" alt="Prisma" />
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/PyTorch-14213d?style=flat-square&logo=pytorch&logoColor=fca311" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-14213d?style=flat-square&logo=scikitlearn&logoColor=fca311" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-14213d?style=flat-square&logo=numpy&logoColor=fca311" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-14213d?style=flat-square&logo=pandas&logoColor=fca311" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-14213d?style=flat-square" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/snnTorch-14213d?style=flat-square" alt="snnTorch" />
 
-**Low-Level & Core Systems**
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-14213d?style=flat-square&logo=git&logoColor=fca311" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-14213d?style=flat-square&logo=github&logoColor=fca311" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-14213d?style=flat-square&logo=vercel&logoColor=fca311" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-14213d?style=flat-square&logo=figma&logoColor=fca311" alt="Figma" />
+<img src="https://img.shields.io/badge/Socket.IO-14213d?style=flat-square&logo=socketdotio&logoColor=fca311" alt="Socket.IO" />
 
-<img src="https://img.shields.io/badge/Assembly_(x86)-000000?style=flat-square&logo=asm&logoColor=white" alt="Assembly" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+## Education & achievements
+
+- 🎓 **BSc in Computer Science and Engineering**, BRAC University (2022 – 2026) · CGPA 3.59
+- 🏆 **Top 15 Finalist**, BRAIN CHILD 2.0 National App, Web & Project Expo, Jagannath University AI & IT Fest 2026 (Team AzRova)
+- 📜 **Python (Basic)** certification, HackerRank
+- 🤝 **Founding member** of Ek Jubo Songho, a 22-member youth group focused on financial discipline and shared decision-making
+
+## Beyond code
+
+Photography, movies, cars, watches, sneakers and gardening. I stay curious about how things work, and I keep learning and building things that matter.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=100&section=footer" width="100%" />
+
+<sub><i>"Every expert was once a beginner."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=90&section=footer" width="100%" alt="" />
+
 </div>
