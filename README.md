@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=fca311&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20CSE%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
-
-Turning ideas into practical solutions through thoughtful problem-solving and software engineering, with a growing interest in AI.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=fca311&fontAlignY=38&desc=CSE%20Graduate%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
 
 <a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-bmrauf.me-fca311?style=flat-square&labelColor=14213d" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-mebmrauf-fca311?style=flat-square&labelColor=14213d" alt="LinkedIn" /></a>
@@ -29,7 +27,7 @@ Whether I'm doing research, writing software or trying a new idea, I start from 
 | **[Facial Emotion Recognizer](https://github.com/mebmrauf/Facial-Emotion-Recognizer)** | ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013. | Python · PyTorch |
 | **[Mushroom Class Detector](https://github.com/mebmrauf/Mushroom-Class-Detector)** | Mushroom classifier; Random Forest reached 95.04% test accuracy. | Python · scikit-learn · Pandas |
 
-<sub>More projects and case studies on <a href="https://www.bmrauf.me">bmrauf.me</a>.</sub>
+<sub>More projects and case studies on <a href="https://www.bmrauf.me/code-and-craft">bmrauf.me</a>.</sub>
 
 ## Tech stack
 
