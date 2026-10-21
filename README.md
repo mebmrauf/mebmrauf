@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=00d9ff&fontAlignY=38&desc=CSE%20Graduate%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=64FFDA&fontAlignY=38&desc=CSE%20Graduate%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
 
 <a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-bmrauf.me-00d9ff?style=flat-square&labelColor=14213d" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-mebmrauf-00d9ff?style=flat-square&labelColor=14213d" alt="LinkedIn" /></a>
