@@ -69,7 +69,6 @@ Whether I'm doing research, writing software or trying a new idea, I start from 
 - 🎓 **BSc in Computer Science and Engineering**, BRAC University (2022 – 2026) · CGPA 3.59
 - 🏆 **Top 15 Finalist**, BRAIN CHILD 2.0 National App, Web & Project Expo, Jagannath University AI & IT Fest 2026 (Team AzRova)
 - 📜 **Python (Basic)** certification, HackerRank
-- 🤝 **Founding member** of Ek Jubo Songho, a 22-member youth group focused on financial discipline and shared decision-making
 
 ## Beyond code
 
