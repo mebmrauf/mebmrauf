@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=fca311&fontAlignY=38&desc=CSE%20Graduate%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=14213d&height=170&section=header&text=B%20M%20Rauf&fontSize=56&fontColor=00d9ff&fontAlignY=38&desc=CSE%20Graduate%20%40%20BRAC%20University&descSize=16&descAlignY=60&descColor=e5e5e5" width="100%" alt="B M Rauf" />
 
-<a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-bmrauf.me-fca311?style=flat-square&labelColor=14213d" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-mebmrauf-fca311?style=flat-square&labelColor=14213d" alt="LinkedIn" /></a>
-<a href="mailto:bmrauf.me@gmail.com"><img src="https://img.shields.io/badge/Email-bmrauf.me%40gmail.com-fca311?style=flat-square&labelColor=14213d" alt="Email" /></a>
-<a href="https://leetcode.com/mebmrauf"><img src="https://img.shields.io/badge/LeetCode-mebmrauf-fca311?style=flat-square&labelColor=14213d" alt="LeetCode" /></a>
+<a href="https://www.bmrauf.me"><img src="https://img.shields.io/badge/Portfolio-bmrauf.me-00d9ff?style=flat-square&labelColor=14213d" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mebmrauf"><img src="https://img.shields.io/badge/LinkedIn-mebmrauf-00d9ff?style=flat-square&labelColor=14213d" alt="LinkedIn" /></a>
+<a href="mailto:bmrauf.me@gmail.com"><img src="https://img.shields.io/badge/Email-bmrauf.me%40gmail.com-00d9ff?style=flat-square&labelColor=14213d" alt="Email" /></a>
+<a href="https://leetcode.com/mebmrauf"><img src="https://img.shields.io/badge/LeetCode-mebmrauf-00d9ff?style=flat-square&labelColor=14213d" alt="LeetCode" /></a>
 
 <sub>📍 Dhaka, Bangladesh &nbsp;·&nbsp; 🟢 Open to work: full-time, part-time and internships, on-site or remote</sub>
 
@@ -32,37 +32,37 @@ Whether I'm doing research, writing software or trying a new idea, I start from 
 ## Tech stack
 
 **Languages**<br/>
-<img src="https://img.shields.io/badge/Python-14213d?style=flat-square&logo=python&logoColor=fca311" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-14213d?style=flat-square&logo=javascript&logoColor=fca311" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-14213d?style=flat-square&logo=typescript&logoColor=fca311" alt="TypeScript" />
-<img src="https://img.shields.io/badge/SQL-14213d?style=flat-square&logo=postgresql&logoColor=fca311" alt="SQL" />
-<img src="https://img.shields.io/badge/Assembly-14213d?style=flat-square&logo=assemblyscript&logoColor=fca311" alt="Assembly" />
+<img src="https://img.shields.io/badge/Python-14213d?style=flat-square&logo=python&logoColor=00d9ff" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-14213d?style=flat-square&logo=javascript&logoColor=00d9ff" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-14213d?style=flat-square&logo=typescript&logoColor=00d9ff" alt="TypeScript" />
+<img src="https://img.shields.io/badge/SQL-14213d?style=flat-square&logo=postgresql&logoColor=00d9ff" alt="SQL" />
+<img src="https://img.shields.io/badge/Assembly-14213d?style=flat-square&logo=assemblyscript&logoColor=00d9ff" alt="Assembly" />
 
 **Web**<br/>
-<img src="https://img.shields.io/badge/React-14213d?style=flat-square&logo=react&logoColor=fca311" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-14213d?style=flat-square&logo=nextdotjs&logoColor=fca311" alt="Next.js" />
-<img src="https://img.shields.io/badge/Node.js-14213d?style=flat-square&logo=nodedotjs&logoColor=fca311" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-14213d?style=flat-square&logo=express&logoColor=fca311" alt="Express" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-14213d?style=flat-square&logo=tailwindcss&logoColor=fca311" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/PostgreSQL-14213d?style=flat-square&logo=postgresql&logoColor=fca311" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-14213d?style=flat-square&logo=mysql&logoColor=fca311" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-14213d?style=flat-square&logo=mongodb&logoColor=fca311" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Prisma-14213d?style=flat-square&logo=prisma&logoColor=fca311" alt="Prisma" />
+<img src="https://img.shields.io/badge/React-14213d?style=flat-square&logo=react&logoColor=00d9ff" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-14213d?style=flat-square&logo=nextdotjs&logoColor=00d9ff" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-14213d?style=flat-square&logo=nodedotjs&logoColor=00d9ff" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-14213d?style=flat-square&logo=express&logoColor=00d9ff" alt="Express" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-14213d?style=flat-square&logo=tailwindcss&logoColor=00d9ff" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/PostgreSQL-14213d?style=flat-square&logo=postgresql&logoColor=00d9ff" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-14213d?style=flat-square&logo=mysql&logoColor=00d9ff" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-14213d?style=flat-square&logo=mongodb&logoColor=00d9ff" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Prisma-14213d?style=flat-square&logo=prisma&logoColor=00d9ff" alt="Prisma" />
 
 **AI / ML**<br/>
-<img src="https://img.shields.io/badge/PyTorch-14213d?style=flat-square&logo=pytorch&logoColor=fca311" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-14213d?style=flat-square&logo=scikitlearn&logoColor=fca311" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-14213d?style=flat-square&logo=numpy&logoColor=fca311" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-14213d?style=flat-square&logo=pandas&logoColor=fca311" alt="Pandas" />
+<img src="https://img.shields.io/badge/PyTorch-14213d?style=flat-square&logo=pytorch&logoColor=00d9ff" alt="PyTorch" />
+<img src="https://img.shields.io/badge/scikit--learn-14213d?style=flat-square&logo=scikitlearn&logoColor=00d9ff" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-14213d?style=flat-square&logo=numpy&logoColor=00d9ff" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-14213d?style=flat-square&logo=pandas&logoColor=00d9ff" alt="Pandas" />
 <img src="https://img.shields.io/badge/Matplotlib-14213d?style=flat-square" alt="Matplotlib" />
 <img src="https://img.shields.io/badge/snnTorch-14213d?style=flat-square" alt="snnTorch" />
 
 **Tools**<br/>
-<img src="https://img.shields.io/badge/Git-14213d?style=flat-square&logo=git&logoColor=fca311" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-14213d?style=flat-square&logo=github&logoColor=fca311" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-14213d?style=flat-square&logo=vercel&logoColor=fca311" alt="Vercel" />
-<img src="https://img.shields.io/badge/Figma-14213d?style=flat-square&logo=figma&logoColor=fca311" alt="Figma" />
-<img src="https://img.shields.io/badge/Socket.IO-14213d?style=flat-square&logo=socketdotio&logoColor=fca311" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/Git-14213d?style=flat-square&logo=git&logoColor=00d9ff" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-14213d?style=flat-square&logo=github&logoColor=00d9ff" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-14213d?style=flat-square&logo=vercel&logoColor=00d9ff" alt="Vercel" />
+<img src="https://img.shields.io/badge/Figma-14213d?style=flat-square&logo=figma&logoColor=00d9ff" alt="Figma" />
+<img src="https://img.shields.io/badge/Socket.IO-14213d?style=flat-square&logo=socketdotio&logoColor=00d9ff" alt="Socket.IO" />
 
 ## Education & achievements
 
