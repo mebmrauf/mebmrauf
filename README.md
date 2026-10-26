@@ -4,7 +4,15 @@
 
 [Portfolio](https://www.bmrauf.me) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/mebmrauf) &nbsp; / &nbsp; [Email](mailto:bmrauf.me@gmail.com)
 
-I'm Rauf, a CSE graduate from BRAC University, based in Dhaka. My work moves between software engineering, machine learning and cybersecurity: a marketplace for recyclable waste, a file system you can inspect byte by byte, and experiments on how intrusion detectors behave when their training data gets uneven.
+> **Always dreaming of winning.**
+
+I am Rauf, a Computer Science and Engineering graduate from BRAC University. I grew up in Maheshpur, Jhenaidah, and now live in Dhaka.
+
+I often start by solving a problem in my own life. Sometimes that becomes a useful application; sometimes it takes me deeper into systems, machine learning or cybersecurity.
+
+Accuracy alone isn't enough. In research, I look at precision, false positives and performance across different conditions. When building software, I bring the same habit: question the assumptions, understand where things fail, and check whether the solution works for the people using it.
+
+[More about me →](https://www.bmrauf.me/behind-the-code)
 
 ### 01 / The question on my desk
 
@@ -38,7 +46,9 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 
 ---
 
-Away from the keyboard: photography, movies, cars, watches, sneakers and gardening.
+Away from code: photography, movies, and time with friends. Sleep is a feature.
 
 **Open to software engineering, AI/ML and cybersecurity opportunities.**<br>
 Have a role or a project in mind? [Send me a note](mailto:bmrauf.me@gmail.com).
+
+> **Every expert was once a beginner.**
