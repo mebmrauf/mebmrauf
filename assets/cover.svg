@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">B M Rauf — a working notebook</title>
+  <desc id="desc">An ink and vermilion notebook cover. A branching circuit joins software, security and experiments.</desc>
+  <rect width="1280" height="440" fill="#F2EFE7"/>
+  <path d="M40 40H1240M40 400H1240" stroke="#232A27" stroke-width="1.5"/>
+  <g fill="#525A53" font-family="'Courier New',monospace" font-size="15" letter-spacing="2">
+    <text x="42" y="73">MEBMRAUF / PERSONAL INDEX</text>
+    <text x="1238" y="73" text-anchor="end">DHAKA, BD</text>
+  </g>
+  <text x="34" y="230" fill="#232A27" font-family="Georgia,'Times New Roman',serif" font-size="144" letter-spacing="-9">B M Rauf</text>
+  <text x="43" y="282" fill="#B43B28" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="35">A working notebook.</text>
+  <text x="44" y="355" fill="#525A53" font-family="'Courier New',monospace" font-size="18">Software, security,</text>
+  <text x="44" y="381" fill="#525A53" font-family="'Courier New',monospace" font-size="18">and the experiments in between.</text>
+  <g stroke="#D9D7CD" stroke-width="1">
+    <path d="M850 116V370M906 116V370M962 116V370M1018 116V370M1074 116V370M1130 116V370M1186 116V370"/>
+    <path d="M822 144H1214M822 200H1214M822 256H1214M822 312H1214M822 368H1214"/>
+  </g>
+  <g stroke="#232A27" stroke-width="2">
+    <path d="M850 312H906V256H962V200H1018V144H1130"/>
+    <path d="M962 256H1074V312H1186M1018 200H1130V256H1186"/>
+  </g>
+  <g fill="#F2EFE7" stroke="#232A27" stroke-width="2">
+    <circle cx="850" cy="312" r="6"/><circle cx="962" cy="256" r="6"/>
+    <circle cx="1018" cy="200" r="6"/><circle cx="1130" cy="144" r="6"/>
+    <circle cx="1186" cy="312" r="6"/>
+  </g>
+  <rect x="1178" y="248" width="16" height="16" fill="#B43B28"/>
+  <g fill="#525A53" font-family="'Courier New',monospace" font-size="13" letter-spacing="1">
+    <text x="1110" y="127">BUILD</text><text x="1138" y="291">TEST</text>
+    <text x="1140" y="344">REPEAT</text>
+  </g>
+  <rect x="40" y="400" width="96" height="6" fill="#B43B28"/>
+</svg>
