@@ -6,9 +6,7 @@
 
 > **Always dreaming of winning.**
 
-I am Rauf, a Computer Science and Engineering graduate from BRAC University. I grew up in Maheshpur, Jhenaidah, and now live in Dhaka.
-
-I often start by solving a problem in my own life. Sometimes that becomes a useful application; sometimes it takes me deeper into systems, machine learning or cybersecurity.
+I am Rauf, a Computer Science and Engineering graduate from BRAC University. I often start by solving a problem in my own life. Sometimes that becomes a useful application; sometimes it takes me deeper into systems, machine learning or cybersecurity.
 
 Accuracy alone isn't enough. In research, I look at precision, false positives and performance across different conditions. When building software, I bring the same habit: question the assumptions, understand where things fail, and check whether the solution works for the people using it.
 
