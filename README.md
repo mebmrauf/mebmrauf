@@ -28,7 +28,7 @@ A marketplace for recyclable waste, with AI-assisted features. Built with Next.j
 
 #### [Khabari ↗](https://khabari.bmrauf.me)
 
-A bazar app for Bangladesh, built around the neighbourhood mudi shop people already trust. Plan the week's meals with AI, turn them into one bazar list, compare nearby shops on that exact list, and order in one tap, in English or বাংলা. It also has baki khata and rider tools for shopkeepers, and mess hisab for bachelor messes. Built with Next.js, TypeScript, Express and MongoDB, starting from my CSE470: Software Engineering course at BRAC University.
+A bazar app for Bangladesh, built around the neighbourhood mudi shop people already trust. Plan the week's meals with AI, turn them into one bazar list, compare nearby shops on that exact list, and order in one tap, in English or বাংলা. It also has baki khata and rider tools for shopkeepers, and mess hisab for bachelor messes.
 
 #### [MiniVSFS ↗](https://github.com/mebmrauf/MiniVSFS)
 
