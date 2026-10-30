@@ -26,6 +26,10 @@ In [edge-iot-ids-benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark),
 
 A marketplace for recyclable waste, with AI-assisted features. Built with Next.js, TypeScript, Express and PostgreSQL. Our team, AzRova, reached the **Top 15 at BRAIN CHILD 2.0**, the national project expo at Jagannath University AI & IT Fest 2026.
 
+#### [Khabari ↗](https://khabari.bmrauf.me)
+
+A bazar app for Bangladesh, built around the neighbourhood mudi shop people already trust. Plan the week's meals with AI, turn them into one bazar list, compare nearby shops on that exact list, and order in one tap, in English or বাংলা. It also has baki khata and rider tools for shopkeepers, and mess hisab for bachelor messes. Built with Next.js, TypeScript, Express and MongoDB, starting from my CSE470: Software Engineering course at BRAC University.
+
 #### [MiniVSFS ↗](https://github.com/mebmrauf/MiniVSFS)
 
 Two C programs: one builds a small inode-based file-system image; the other adds a file to it. Superblocks, allocation bitmaps, directory entries and checksums, down to the bytes on disk.
@@ -38,7 +42,7 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 
 ### 03 / What's in the toolbox
 
-**Software** &nbsp; TypeScript, JavaScript, React, Next.js, Node.js, SQL<br>
+**Software** &nbsp; TypeScript, JavaScript, React, Next.js, Node.js, Express.js, SQL, MongoDB<br>
 **Experiments** &nbsp; Python, PyTorch, scikit-learn, snnTorch, NumPy, Pandas<br>
 **Closer to the machine** &nbsp; C, Assembly
 
