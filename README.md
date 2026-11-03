@@ -30,7 +30,7 @@ A marketplace for recyclable waste, with AI-assisted features. Built with Next.j
 
 A bazar app for Bangladesh, built around the neighbourhood mudi shop people already trust. Plan the week's meals with AI, turn them into one bazar list, compare nearby shops on that exact list, and order in one tap, in English or বাংলা. It also has baki khata and rider tools for shopkeepers, and mess hisab for bachelor messes.
 
-#### [Bookworm Buddies ↗](https://bookworm-buddies.bmrauf.me)
+#### [Bookworm Buddies ↗](https://bookwormbuddies.bmrauf.me)
 
 A free community where readers in Bangladesh lend, swap and give away physical books. Browse without an account, request a book, arrange the handover in private chat, and write about what you read on the blog.
 
