@@ -22,7 +22,7 @@ In [edge-iot-ids-benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark),
 
 ### 02 / Things I've put together
 
-#### [Circuvo ↗](https://circuvo.bmrauf.me/)
+#### [Circuvo ↗](https://circuvo-azrova.vercel.app/)
 
 A marketplace for recyclable waste, with AI-assisted features. Built with Next.js, TypeScript, Express and PostgreSQL. Our team, AzRova, reached the **Top 15 at BRAIN CHILD 2.0**, the national project expo at Jagannath University AI & IT Fest 2026.
 
