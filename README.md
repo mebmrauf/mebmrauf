@@ -29,35 +29,35 @@ A marketplace for recyclable waste, with AI-assisted features. Built with team A
 
 <sub>Next.js · TypeScript · Express · PostgreSQL &nbsp;·&nbsp; <a href="https://circuvo-azrova.vercel.app/">Visit site ↗</a></sub>
 
-### <img src="assets/icons/shopping-basket.svg" width="22" height="22" alt="" />&nbsp; [Khabari](https://khabari.bmrauf.me)
+### <img src="assets/icons/shopping-basket.svg" width="22" height="22" alt="" />&nbsp; **Khabari**
 <sub>WEB APP &nbsp;·&nbsp; ENGLISH + বাংলা</sub>
 
 A bazar app built around the neighbourhood mudi shop. Plan meals with AI, turn them into one list, compare nearby shops on that exact list, and order in one tap. Includes baki khata, rider tools and mess hisab.
 
 <sub>AI meal planning · Price comparison · Bilingual &nbsp;·&nbsp; <a href="https://khabari.bmrauf.me">Visit site ↗</a></sub>
 
-### <img src="assets/icons/book-open.svg" width="22" height="22" alt="" />&nbsp; [Bookworm Buddies](https://bookwormbuddies.bmrauf.me)
+### <img src="assets/icons/book-open.svg" width="22" height="22" alt="" />&nbsp; **Bookworm Buddies**
 <sub>COMMUNITY PLATFORM</sub>
 
 A free community where readers in Bangladesh lend, swap and give away physical books. Browse without an account, request a book, arrange the handover in private chat, and blog about what you read.
 
 <sub>Book exchange · Private chat · Blog &nbsp;·&nbsp; <a href="https://bookwormbuddies.bmrauf.me">Visit site ↗</a></sub>
 
-### <img src="assets/icons/hard-drive.svg" width="22" height="22" alt="" />&nbsp; [MiniVSFS](https://github.com/mebmrauf/MiniVSFS)
+### <img src="assets/icons/hard-drive.svg" width="22" height="22" alt="" />&nbsp; **MiniVSFS**
 <sub>SYSTEMS &nbsp;·&nbsp; C</sub>
 
 Two C programs: one builds a small inode-based file-system image, the other adds a file to it. Superblocks, allocation bitmaps, directory entries and checksums, down to the bytes on disk.
 
 <sub>C · File systems · Inodes &nbsp;·&nbsp; <a href="https://github.com/mebmrauf/MiniVSFS">View code ↗</a></sub>
 
-### <img src="assets/icons/brain.svg" width="22" height="22" alt="" />&nbsp; [Facial Emotion Recognizer](https://github.com/mebmrauf/Facial-Emotion-Recognizer)
+### <img src="assets/icons/brain.svg" width="22" height="22" alt="" />&nbsp; **Facial Emotion Recognizer**
 <sub>DEEP LEARNING &nbsp;·&nbsp; COMPUTER VISION</sub>
 
 ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013. Per-class evaluation and misclassification plots show where the model gets confused.
 
 <sub>PyTorch · ResNet-34 · Attention &nbsp;·&nbsp; <a href="https://github.com/mebmrauf/Facial-Emotion-Recognizer">View code ↗</a></sub>
 
-<sub>More: <a href="https://github.com/mebmrauf/Mushroom-Class-Detector">Mushroom classification</a> · <a href="https://github.com/mebmrauf/Air-Quality-Predictor">Air-quality classification</a> · <a href="https://www.bmrauf.me/code-and-craft">Full portfolio ↗</a></sub>
+<sub>More: <a href="https://github.com/mebmrauf/Mushroom-Class-Detector">Mushroom classification</a> · <a href="https://github.com/mebmrauf/Air-Quality-Predictor">Air-quality classification</a> · <a href="https://www.bmrauf.me/work">All Works ↗</a></sub>
 
 ## Tech Stack
 
