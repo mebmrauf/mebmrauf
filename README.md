@@ -22,7 +22,7 @@ I care about more than whether something works on paper. When I build software, 
 
 ## Projects
 
-### <img src="assets/icons/recycle.svg" width="22" height="22" alt="" />&nbsp; [Circuvo](https://circuvo-azrova.vercel.app/)
+### <img src="assets/icons/recycle.svg" width="22" height="22" alt="" />&nbsp; **Circuvo**
 <sub>FEATURED &nbsp;·&nbsp; WEB APP &nbsp;·&nbsp; TOP 15 AT BRAIN CHILD 2.0</sub>
 
 A marketplace for recyclable waste, with AI-assisted features. Built with team AzRova and placed in the Top 15 at the national project expo, Jagannath University AI &amp; IT Fest 2026.
