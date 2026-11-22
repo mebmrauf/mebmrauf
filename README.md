@@ -84,7 +84,7 @@ How do intrusion detectors hold up when every IoT device sees a different slice 
 
 <p align="center">
   <b>Open to software engineering and AI/ML opportunities.</b><br />
-  Have a role or a project in mind? <a href="mailto:bmrauf.me@gmail.com">Send me a note →</a>
+  Have a role or a project in mind? <a href="https://bmrauf.me/contact">Send me a note →</a>
 </p>
 
 <p align="center"><i>“Every expert was once a beginner.”</i></p>
