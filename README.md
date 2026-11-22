@@ -24,35 +24,35 @@ I care about more than whether something works on paper. When I build software, 
 
 ## Projects
 
-### ♻️&nbsp; [Circuvo](https://circuvo-azrova.vercel.app/)
-<sub>FEATURED &nbsp;·&nbsp; WEB APP &nbsp;·&nbsp; 🏆 TOP 15 AT BRAIN CHILD 2.0</sub>
+### [Circuvo](https://circuvo-azrova.vercel.app/)
+<sub>FEATURED &nbsp;·&nbsp; WEB APP &nbsp;·&nbsp; TOP 15 AT BRAIN CHILD 2.0</sub>
 
 A marketplace for recyclable waste, with AI-assisted features. Built with team AzRova and placed in the Top 15 at the national project expo, Jagannath University AI &amp; IT Fest 2026.
 
 <sub>Next.js · TypeScript · Express · PostgreSQL &nbsp;·&nbsp; <a href="https://circuvo-azrova.vercel.app/">Visit site ↗</a></sub>
 
-### 🛒&nbsp; [Khabari](https://khabari.bmrauf.me)
+### [Khabari](https://khabari.bmrauf.me)
 <sub>WEB APP &nbsp;·&nbsp; ENGLISH + বাংলা</sub>
 
 A bazar app built around the neighbourhood mudi shop. Plan meals with AI, turn them into one list, compare nearby shops on that exact list, and order in one tap. Includes baki khata, rider tools and mess hisab.
 
 <sub>AI meal planning · Price comparison · Bilingual &nbsp;·&nbsp; <a href="https://khabari.bmrauf.me">Visit site ↗</a></sub>
 
-### 📚&nbsp; [Bookworm Buddies](https://bookwormbuddies.bmrauf.me)
+### [Bookworm Buddies](https://bookwormbuddies.bmrauf.me)
 <sub>COMMUNITY PLATFORM</sub>
 
 A free community where readers in Bangladesh lend, swap and give away physical books. Browse without an account, request a book, arrange the handover in private chat, and blog about what you read.
 
 <sub>Book exchange · Private chat · Blog &nbsp;·&nbsp; <a href="https://bookwormbuddies.bmrauf.me">Visit site ↗</a></sub>
 
-### 💾&nbsp; [MiniVSFS](https://github.com/mebmrauf/MiniVSFS)
+### [MiniVSFS](https://github.com/mebmrauf/MiniVSFS)
 <sub>SYSTEMS &nbsp;·&nbsp; C</sub>
 
 Two C programs: one builds a small inode-based file-system image, the other adds a file to it. Superblocks, allocation bitmaps, directory entries and checksums, down to the bytes on disk.
 
 <sub>C · File systems · Inodes &nbsp;·&nbsp; <a href="https://github.com/mebmrauf/MiniVSFS">View code ↗</a></sub>
 
-### 🧠&nbsp; [Facial Emotion Recognizer](https://github.com/mebmrauf/Facial-Emotion-Recognizer)
+### [Facial Emotion Recognizer](https://github.com/mebmrauf/Facial-Emotion-Recognizer)
 <sub>DEEP LEARNING &nbsp;·&nbsp; COMPUTER VISION</sub>
 
 ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013. Per-class evaluation and misclassification plots show where the model gets confused.
@@ -73,7 +73,7 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 
 ## Research
 
-### 📡&nbsp; [Edge IoT IDS Benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark)
+### [Edge IoT IDS Benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark)
 <sub>CO-AUTHORED &nbsp;·&nbsp; MACHINE LEARNING</sub>
 
 How do intrusion detectors hold up when every IoT device sees a different slice of the network? We compare tree ensembles, neural networks and spiking networks across four IoT security datasets, with 15 simulated federated clients and varying label skew.
