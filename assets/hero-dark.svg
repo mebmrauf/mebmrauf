@@ -49,11 +49,11 @@
 
   <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#E6EBF1">
     <rect x="56" y="364" width="196" height="36" rx="18" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
-    <text x="154" y="387" text-anchor="middle">SOFTWARE ENG</text>
+    <text x="154" y="387" text-anchor="middle">FULL-STACK</text>
     <rect x="264" y="364" width="120" height="36" rx="18" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
     <text x="324" y="387" text-anchor="middle">AI / ML</text>
     <rect x="396" y="364" width="136" height="36" rx="18" fill="#FF6B3D" fill-opacity=".12" stroke="#FF6B3D" stroke-opacity=".5"/>
-    <text x="464" y="387" text-anchor="middle" fill="#FFB08F">RESEARCH</text>
+    <text x="464" y="387" text-anchor="middle" fill="#FFB08F">SYSTEMS</text>
   </g>
 
   <g stroke="#FFFFFF" stroke-opacity=".07">
