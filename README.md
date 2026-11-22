@@ -14,15 +14,11 @@
 
 <p align="center"><i>“Always dreaming of winning.”</i></p>
 
-<br />
-
 I'm **Rauf**, a Computer Science and Engineering graduate from **BRAC University**. I often start by solving a problem in my own life. Sometimes that becomes a useful application; sometimes it takes me deeper into **systems** or **machine learning**.
 
 I care about more than whether something works on paper. When I build software, I question the assumptions, look for where things fail, and check whether the solution works for the people using it. In ML experiments, that means looking past accuracy to precision, false positives and performance across different conditions.
 
 <sub>→ <a href="https://www.bmrauf.me/behind-the-code">More about me</a></sub>
-
-<br />
 
 ## Projects
 
@@ -63,8 +59,6 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 
 <sub>More: <a href="https://github.com/mebmrauf/Mushroom-Class-Detector">Mushroom classification</a> · <a href="https://github.com/mebmrauf/Air-Quality-Predictor">Air-quality classification</a> · <a href="https://www.bmrauf.me/code-and-craft">Full portfolio ↗</a></sub>
 
-<br />
-
 ## Tech Stack
 
 <p>
@@ -75,8 +69,6 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 **Machine learning** &nbsp;·&nbsp; Python · PyTorch · scikit-learn · snnTorch · NumPy · Pandas<br />
 **Systems** &nbsp;·&nbsp; C · Assembly
 
-<br />
-
 ## Research
 
 ### <img src="assets/icons/radio-tower.svg" width="22" height="22" alt="" />&nbsp; [Edge IoT IDS Benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark)
@@ -86,8 +78,6 @@ How do intrusion detectors hold up when every IoT device sees a different slice 
 
 <sub>Federated learning · Spiking networks · Non-IID data &nbsp;·&nbsp; <a href="https://github.com/mebmrauf/edge-iot-ids-benchmark">View code ↗</a></sub>
 
-<br />
-
 ---
 
 <p align="center"><sub>Away from code: photography, movies and time with friends. Sleep is a feature.</sub></p>
@@ -96,7 +86,5 @@ How do intrusion detectors hold up when every IoT device sees a different slice 
   <b>Open to software engineering and AI/ML opportunities.</b><br />
   Have a role or a project in mind? <a href="mailto:bmrauf.me@gmail.com">Send me a note →</a>
 </p>
-
-<br />
 
 <p align="center"><i>“Every expert was once a beginner.”</i></p>
