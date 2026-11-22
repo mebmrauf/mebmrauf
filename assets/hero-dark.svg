@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">B M Rauf — a working notebook</title>
+  <desc id="desc">Software, machine learning, and the experiments in between. Dhaka, Bangladesh.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0D12"/><stop offset="1" stop-color="#121826"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="1060" cy="60" r="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E4572E" stop-opacity=".38"/><stop offset="1" stop-color="#E4572E" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="120" cy="460" r="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F2A541" stop-opacity=".16"/><stop offset="1" stop-color="#F2A541" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="140" x2="0" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#B9C2CE"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="40" y1="0" x2="520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6B3D"/><stop offset="1" stop-color="#F2A541"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <style>
+      .flow { stroke-dasharray: 6 10; animation: flow 2.4s linear infinite; }
+      .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+      .blink { animation: blink 1.6s ease-in-out infinite; }
+      @keyframes flow { to { stroke-dashoffset: -32; } }
+      @keyframes pulse { 0%,100% { transform: scale(1); opacity: 1; } 50% { transform: scale(1.35); opacity: .55; } }
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .pulse, .blink { animation: none; } }
+    </style>
+  </defs>
+
+  <rect width="1280" height="460" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="460" rx="20" fill="url(#grid)"/>
+  <rect width="1280" height="460" rx="20" fill="url(#glowA)"/>
+  <rect width="1280" height="460" rx="20" fill="url(#glowB)"/>
+  <rect x=".5" y=".5" width="1279" height="459" rx="19.5" stroke="#FFFFFF" stroke-opacity=".08"/>
+
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="2.5" fill="#8B95A3">
+    <text x="56" y="70">MEBMRAUF  /  PERSONAL INDEX</text>
+    <text x="1204" y="70" text-anchor="end">DHAKA, BD   ·   OPEN TO WORK</text>
+  </g>
+  <circle class="blink" cx="1220" cy="65" r="4.5" fill="#3FD68B"/>
+
+  <text x="50" y="236" fill="url(#name)" font-family="Georgia,'Times New Roman',serif" font-size="136" letter-spacing="-6">B M Rauf</text>
+  <text x="56" y="292" fill="url(#accent)" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="36">A working notebook.</text>
+  <text x="58" y="332" fill="#A3ACB9" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17">Software, machine learning, and the experiments in between.</text>
+
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#E6EBF1">
+    <rect x="56" y="364" width="196" height="36" rx="18" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <text x="154" y="387" text-anchor="middle">SOFTWARE ENG</text>
+    <rect x="264" y="364" width="120" height="36" rx="18" fill="#FFFFFF" fill-opacity=".05" stroke="#FFFFFF" stroke-opacity=".14"/>
+    <text x="324" y="387" text-anchor="middle">AI / ML</text>
+    <rect x="396" y="364" width="136" height="36" rx="18" fill="#FF6B3D" fill-opacity=".12" stroke="#FF6B3D" stroke-opacity=".5"/>
+    <text x="464" y="387" text-anchor="middle" fill="#FFB08F">RESEARCH</text>
+  </g>
+
+  <g stroke="#FFFFFF" stroke-opacity=".07">
+    <path d="M850 116V372M906 116V372M962 116V372M1018 116V372M1074 116V372M1130 116V372M1186 116V372"/>
+    <path d="M822 144H1214M822 200H1214M822 256H1214M822 312H1214M822 368H1214"/>
+  </g>
+  <g stroke="#5B6675" stroke-width="2">
+    <path d="M850 312H906V256H962V200H1018V144H1130"/>
+    <path d="M962 256H1074V312H1186M1018 200H1130V256H1186"/>
+  </g>
+  <g stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" class="flow">
+    <path d="M850 312H906V256H962V200H1018V144H1130"/>
+    <path d="M962 256H1074V312H1186M1018 200H1130V256H1186"/>
+  </g>
+  <g fill="#0F141D" stroke="#C9D1D9" stroke-width="2">
+    <circle cx="850" cy="312" r="7"/><circle cx="962" cy="256" r="7"/>
+    <circle cx="1018" cy="200" r="7"/><circle cx="1130" cy="144" r="7"/>
+    <circle cx="1186" cy="312" r="7"/>
+  </g>
+  <rect class="pulse" x="1176" y="246" width="20" height="20" rx="4" fill="#FF6B3D"/>
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#8B95A3">
+    <text x="1104" y="126">BUILD</text><text x="1136" y="291">TEST</text><text x="1138" y="346">REPEAT</text>
+  </g>
+
+  <rect x="56" y="424" width="120" height="4" rx="2" fill="url(#accent)"/>
+</svg>
