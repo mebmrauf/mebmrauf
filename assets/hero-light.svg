@@ -32,10 +32,8 @@
   </defs>
 
   <rect width="1280" height="460" rx="20" fill="url(#bg)"/>
-  <rect width="1280" height="460" rx="20" fill="url(#grid)"/>
   <rect width="1280" height="460" rx="20" fill="url(#glowA)"/>
   <rect width="1280" height="460" rx="20" fill="url(#glowB)"/>
-  <rect x=".5" y=".5" width="1279" height="459" rx="19.5" stroke="#0D1117" stroke-opacity=".08"/>
 
   <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="2.5" fill="#6A7380">
     <text x="56" y="70">MEBMRAUF  /  PERSONAL INDEX</text>
@@ -47,19 +45,10 @@
   <text x="56" y="292" fill="url(#accent)" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="36">A working notebook.</text>
   <text x="58" y="332" fill="#4B5461" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="17">Software, machine learning, and the experiments in between.</text>
 
-  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#1F2630">
-    <rect x="56" y="364" width="196" height="36" rx="18" fill="#0D1117" fill-opacity=".03" stroke="#0D1117" stroke-opacity=".16"/>
-    <text x="154" y="387" text-anchor="middle">FULL-STACK</text>
-    <rect x="264" y="364" width="120" height="36" rx="18" fill="#0D1117" fill-opacity=".03" stroke="#0D1117" stroke-opacity=".16"/>
-    <text x="324" y="387" text-anchor="middle">AI / ML</text>
-    <rect x="396" y="364" width="136" height="36" rx="18" fill="#E4572E" fill-opacity=".12" stroke="#E4572E" stroke-opacity=".5"/>
-    <text x="464" y="387" text-anchor="middle" fill="#C2410C">SYSTEMS</text>
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="14" letter-spacing="2.5" fill="#1F2630">
+    <text x="58" y="388">FULL-STACK<tspan fill="#C2410C" dx="14">·</tspan><tspan dx="14">AI / ML</tspan><tspan fill="#C2410C" dx="14">·</tspan><tspan dx="14">SYSTEMS</tspan></text>
   </g>
 
-  <g stroke="#0D1117" stroke-opacity=".08">
-    <path d="M850 116V372M906 116V372M962 116V372M1018 116V372M1074 116V372M1130 116V372M1186 116V372"/>
-    <path d="M822 144H1214M822 200H1214M822 256H1214M822 312H1214M822 368H1214"/>
-  </g>
   <g stroke="#B8BEC6" stroke-width="2">
     <path d="M850 312H906V256H962V200H1018V144H1130"/>
     <path d="M962 256H1074V312H1186M1018 200H1130V256H1186"/>
@@ -73,7 +62,7 @@
     <circle cx="1018" cy="200" r="7"/><circle cx="1130" cy="144" r="7"/>
     <circle cx="1186" cy="312" r="7"/>
   </g>
-  <rect class="pulse" x="1176" y="246" width="20" height="20" rx="4" fill="#E4572E"/>
+  <circle class="pulse" cx="1186" cy="256" r="10" fill="#E4572E"/>
   <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-size="12" letter-spacing="2" fill="#6A7380">
     <text x="1104" y="126">BUILD</text><text x="1136" y="291">TEST</text><text x="1138" y="346">REPEAT</text>
   </g>
