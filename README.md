@@ -71,7 +71,7 @@ ResNet-34 with spatial attention, trained on AffectNet and fine-tuned on FER2013
 
 ## Research
 
-### <img src="assets/icons/radio-tower.svg" width="22" height="22" alt="" />&nbsp; [Edge IoT IDS Benchmark](https://github.com/mebmrauf/edge-iot-ids-benchmark)
+### <img src="assets/icons/radio-tower.svg" width="22" height="22" alt="" />&nbsp; **A Cross Architecture Benchmark of Tree-Based and Neural Models for Intrusion Detection in Centralized and Federated Edge IoT Networks**
 <sub>CO-AUTHORED &nbsp;·&nbsp; MACHINE LEARNING</sub>
 
 How do intrusion detectors hold up when every IoT device sees a different slice of the network? We compare tree ensembles, neural networks and spiking networks across four IoT security datasets, with 15 simulated federated clients and varying label skew.
